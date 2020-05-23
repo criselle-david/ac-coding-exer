@@ -1,0 +1,1651 @@
+region,gadm_province,gadm_municipality,is_city,income_class,population,land_area
+REGION V,Camarines Sur,Nabua,0.0,1st,80111.0,9620.0
+REGION VII,Bohol,Candijay,0.0,4th,29043.0,10326.0
+REGION III,Bulacan,Pandi,0.0,2nd,66650.0,3120.0
+REGION I,La Union,San Juan,0.0,2nd,35098.0,5712.0
+REGION X,Misamis Oriental,Villanueva,0.0,2nd,31966.0,4880.0
+REGION II,Cagayan,Buguey,0.0,3rd,28455.0,16450.0
+ARMM,Sulu,Siasi,0.0,2nd,64229.0,19287.0
+REGION V,Camarines Norte,Talisay,0.0,4th,23904.0,3076.0
+REGION X,Lanao del Norte,Kolambugan,0.0,4th,26445.0,13455.0
+REGION X,Misamis Occidental,Tangub City,1.0,4th Class ,"",16278.0
+REGION XII,Sultan Kudarat,Sen. Ninoy Aquino,0.0,3rd,43508.0,32000.0
+REGION XIII,Surigao del Norte,Placer,0.0,4th,24600.0,6129.0
+REGION IV-A,Laguna,Biñan,1.0,- ,"",4350.0
+REGION II,Cagayan,Sanchez-Mira,0.0,3rd,23257.0,19880.0
+ARMM,Maguindanao,Pagagawan,0.0,-,31265.0,46110.0
+REGION IX,Zamboanga del Norte,Baliguian,0.0,3rd,21190.0,43926.0
+REGION X,Misamis Oriental,Laguindingan,0.0,4th,21822.0,4423.0
+REGION II,Cagayan,Lasam,0.0,3rd,36994.0,21370.0
+ARMM,Lanao del Sur,Pagayawan,0.0,5th,11349.0,21800.0
+REGION IV-B,Palawan,Cagayancillo,0.0,6th,7116.0,2639.0
+REGION XIII,Surigao del Norte,General Luna,0.0,5th,15014.0,4130.0
+REGION VIII,Eastern Samar,Arteche,0.0,3rd,15164.0,16982.0
+CAR,Abra,Daguioman,0.0,5th,1715.0,11437.0
+REGION I,Ilocos Sur,Nagbukel,0.0,5th,4938.0,4312.0
+REGION I,Pangasinan,Sual,0.0,1st,31216.0,13016.0
+REGION IV-A,Quezon,Pagbilao,0.0,1st,65996.0,17096.0
+REGION I,Ilocos Sur,Santiago,0.0,4th,17958.0,4636.0
+REGION III,Zambales,San Marcelino,0.0,1st,31879.0,41686.0
+REGION IV-A,Cavite,Maragondon,0.0,3rd,35289.0,16461.0
+REGION V,Catanduanes,Viga,0.0,4th,20669.0,15823.0
+CAR,Abra,Lacub,0.0,5th,2977.0,29530.0
+REGION II,Quirino,Saguday,0.0,5th,14596.0,5550.0
+REGION IV-B,Oriental Mindoro,Mansalay,0.0,2nd,51705.0,44662.0
+CAR,Benguet,La Trinidad,0.0,1st,107188.0,7004.0
+REGION I,Pangasinan,San Carlos City,1.0,3rd Class ,"",16903.0
+REGION VI,Capiz,Sigma,0.0,4th,29138.0,10171.0
+ARMM,Sulu,Hadji Panglima Tahil,0.0,-,18098.0,18098.0
+REGION VI,Iloilo,Lemery,0.0,4th,27441.0,11990.0
+CAR,Apayao,Kabugao,0.0,1st,16170.0,93512.0
+REGION I,La Union,Caba,0.0,4th,21244.0,4631.0
+REGION III,Nueva Ecija,Talavera,0.0,1st,112515.0,14092.0
+REGION I,Ilocos Norte,Banna,0.0,4th,19051.0,9273.0
+REGION VII,Siquijor,Enrique Villanueva,0.0,5th,5972.0,2860.0
+ARMM,Maguindanao,Mangudadatu,0.0,-,14864.0,9816.0
+REGION XI,Davao del Sur,Padada,0.0,3rd,25724.0,8300.0
+REGION VI,Iloilo,Lambunao,0.0,1st,69023.0,40709.0
+REGION VII,Bohol,Mabini,0.0,4th,28174.0,10457.0
+REGION IV-A,Cavite,Trece Martires City,1.0,4th Class ,"",3910.0
+REGION XII,North Cotabato,Tulunan,0.0,2nd,54884.0,34308.0
+REGION III,Pampanga,Magalang,0.0,1st,103597.0,9732.0
+REGION VI,Iloilo,Banate,0.0,4th,29543.0,10289.0
+REGION I,La Union,Bacnotan,0.0,1st,40307.0,7660.0
+REGION XIII,Agusan del Sur,Bayugan City,1.0,5th Class ,"",68877.0
+REGION IV-A,Rizal,Binangonan,0.0,1st,249872.0,6634.0
+REGION VII,Bohol,San Isidro,0.0,5th,9125.0,6004.0
+REGION VI,Aklan,Malinao,0.0,4th,24108.0,18601.0
+ARMM,Basilan,Maluso,0.0,4th,33803.0,30414.0
+REGION I,Ilocos Sur,Tagudin,0.0,2nd,38122.0,15119.0
+REGION XIII,Surigao del Norte,Tagana-An,0.0,5th,15366.0,7729.0
+REGION IV-B,Palawan,Balabac,0.0,2nd,35758.0,58160.0
+REGION VIII,Samar,Daram,0.0,3rd,41322.0,14026.0
+REGION III,Bulacan,Bustos,0.0,2nd,62415.0,6999.0
+REGION VI,Iloilo,Oton,0.0,1st,82572.0,8644.0
+REGION VII,Cebu,Pinamungahan,0.0,2nd,57997.0,10916.0
+REGION VIII,Southern Leyte,Maasin City,1.0,4th Class ,"",21171.0
+NIR,Negros Occidental,San Enrique,0.0,4th,23189.0,2884.0
+REGION VI,Antique,Culasi,0.0,3rd,39086.0,22856.0
+NIR,Negros Occidental,Bacolod City,1.0,1st Class-Special,"",16267.0
+REGION IV-A,Quezon,Real,0.0,1st,35189.0,56389.0
+REGION XII,North Cotabato,Magpet,0.0,1st,45183.0,75536.0
+NIR,Negros Oriental,San Jose,0.0,5th,19098.0,5446.0
+REGION IV-A,Laguna,Kalayaan,0.0,3rd,20944.0,4660.0
+REGION IX,Zamboanga Sibugay,Siay,0.0,2nd,38229.0,31366.0
+NIR,Negros Occidental,Hinigaran,0.0,1st,81925.0,15492.0
+REGION IX,Zamboanga del Sur,Kumalarang,0.0,4th,28210.0,15149.0
+REGION II,Isabela,Burgos,0.0,4th,22521.0,7310.0
+REGION III,Bulacan,Meycauayan City,1.0,3rd Class ,"",3210.0
+REGION IV-A,Laguna,Cabuyao,1.0,- ,"",4330.0
+REGION III,Zambales,Olongapo City,1.0,1st Class-Special,"",18500.0
+REGION XI,Davao Oriental,Banaybanay,0.0,2nd,39121.0,40852.0
+REGION II,Cagayan,Abulug,0.0,3rd,30675.0,16260.0
+REGION VII,Cebu,Argao,0.0,1st,69503.0,19150.0
+REGION VIII,Leyte,Pastrana,0.0,5th,16649.0,8635.0
+REGION I,La Union,Sudipen,0.0,4th,16531.0,9759.0
+REGION III,Pampanga,San Fernando City,1.0,1st Class-Special,"",6774.0
+REGION XI,Davao Oriental,Caraga,0.0,1st,36912.0,64270.0
+REGION VIII,Northern Samar,Victoria,0.0,5th,13920.0,18670.0
+REGION V,Camarines Sur,Camaligan,0.0,5th,22254.0,468.0
+REGION VII,Bohol,Calape,0.0,3rd,30146.0,7536.0
+REGION VII,Cebu,Naga City,1.0,- ,"",10197.0
+REGION XI,Davao Oriental,Cateel,0.0,2nd,38579.0,54556.0
+REGION VIII,Northern Samar,Palapag,0.0,3rd,33453.0,17960.0
+REGION XIII,Surigao del Sur,Tagbina,0.0,2nd,34812.0,34349.0
+REGION I,Pangasinan,Manaoag,0.0,1st,64578.0,5595.0
+REGION VII,Cebu,Cebu City,1.0,1st Class-Special,"",31500.0
+REGION II,Cagayan,Amulung,0.0,2nd,45182.0,24220.0
+REGION X,Misamis Occidental,Tudela,0.0,4th,27371.0,9852.0
+OAV,ASIA,MALAYSIA,-1.0,"","",""
+REGION X,Misamis Occidental,Jimenez,0.0,3rd,25234.0,8143.0
+REGION V,Catanduanes,Pandan,0.0,4th,19393.0,11990.0
+REGION VII,Bohol,Guindulman,0.0,4th,31789.0,17917.0
+REGION VII,Cebu,Bogo City,1.0,6th Class ,"",10352.0
+REGION I,Ilocos Norte,Pasuquin,0.0,3rd,27952.0,21054.0
+REGION V,Camarines Sur,Naga City,1.0,2nd Class ,"",8448.0
+REGION VII,Cebu,Lapu-Lapu City,1.0,1st Class-Special,"",5810.0
+REGION VIII,Leyte,San Miguel,0.0,4th,17561.0,14511.0
+ARMM,Basilan,Akbar,0.0,-,13369.0,18201.0
+REGION IV-B,Oriental Mindoro,Roxas,0.0,2nd,49854.0,8526.0
+REGION III,Tarlac,Gerona,0.0,1st,83084.0,12889.0
+REGION V,Masbate,Aroroy,0.0,1st,76139.0,44030.0
+REGION V,Albay,Daraga,0.0,1st,115804.0,11864.0
+REGION IV-B,Palawan,Magsaysay,0.0,5th,11965.0,4948.0
+REGION VIII,Leyte,Tanauan,0.0,2nd,50119.0,7841.0
+REGION XI,Davao del Sur,Don Marcelino,0.0,3rd,41942.0,40730.0
+REGION XIII,Dinagat Islands,Libjo,0.0,5th,17567.0,18057.0
+REGION VIII,Southern Leyte,San Francisco,0.0,5th,12528.0,6860.0
+ARMM,Maguindanao,Datu Paglas,0.0,4th,20290.0,13210.0
+OAV,ASIA,REPUBLIC OF SINGAPORE,-1.0,"","",""
+REGION III,Bataan,Dinalupihan,0.0,1st,97275.0,9252.0
+REGION IV-A,Quezon,Perez,0.0,5th,12039.0,5746.0
+REGION III,Bulacan,San Ildefonso,0.0,1st,95000.0,12871.0
+REGION VI,Guimaras,San Lorenzo,0.0,5th,24032.0,9304.0
+REGION XI,Davao Oriental,Mati City,1.0,5th Class ,"",58863.0
+REGION XII,North Cotabato,Midsayap,0.0,1st,134170.0,29042.0
+REGION I,Pangasinan,Santa Maria,0.0,4th,31091.0,6950.0
+REGION VI,Iloilo,Barotac Viejo,0.0,3rd,41470.0,18578.0
+REGION III,Zambales,Iba,0.0,2nd,46761.0,15338.0
+REGION III,Nueva Ecija,Nampicuan,0.0,5th,13303.0,5260.0
+REGION XIII,Surigao del Norte,Burgos,0.0,6th,4058.0,1927.0
+REGION VIII,Biliran,Biliran,0.0,5th,16183.0,7030.0
+ARMM,Lanao del Sur,Poona Bayabao,0.0,4th,19229.0,24234.0
+REGION VII,Bohol,Catigbian,0.0,4th,22686.0,11333.0
+REGION II,Isabela,Naguilian,0.0,4th,29491.0,16981.0
+REGION X,Misamis Occidental,Sapang Dalaga,0.0,5th,19431.0,9393.0
+REGION V,Sorsogon,Prieto Diaz,0.0,5th,20478.0,4907.0
+ARMM,Sulu,Kalingalan Caluang,0.0,5th,26848.0,16650.0
+REGION VIII,Biliran,Culaba,0.0,5th,12252.0,7342.0
+REGION II,Cagayan,Santo Niño,0.0,2nd,26126.0,51290.0
+REGION IV-B,Palawan,Dumaran,0.0,3rd,21397.0,43500.0
+REGION X,Misamis Occidental,Ozamis City,1.0,3rd Class ,"",16995.0
+REGION VII,Cebu,Consolacion,0.0,1st,106649.0,14720.0
+NIR,Negros Occidental,Sagay City,1.0,3rd Class ,"",33034.0
+REGION XI,Compostela Valley,New Bataan,0.0,1st,47470.0,55315.0
+OAV,MIDDLE EAST AND AFRICAS,STATE OF QATAR,-1.0,"","",""
+REGION V,Albay,Malilipot,0.0,4th,35567.0,4413.0
+REGION II,Isabela,Dinapigue,0.0,1st,5484.0,57440.0
+REGION XIII,Agusan del Sur,Loreto,0.0,1st,39474.0,146274.0
+REGION XIII,Surigao del Norte,Bacuag,0.0,5th,13211.0,9585.0
+REGION IV-B,Palawan,Linapacan,0.0,5th,14180.0,19544.0
+REGION XIII,Surigao del Norte,Surigao City,1.0,3rd Class ,"",24530.0
+REGION II,Nueva Vizcaya,Kasibu,0.0,3rd,33379.0,31880.0
+REGION II,Isabela,San Agustin,0.0,3rd,21797.0,27840.0
+ARMM,Maguindanao,Datu Odin Sinsuat,0.0,-,76332.0,46180.0
+REGION VI,Iloilo,Igbaras,0.0,3rd,31347.0,14872.0
+ARMM,Lanao del Sur,Pualas,0.0,5th,11163.0,18289.0
+REGION I,Pangasinan,Malasiqui,0.0,1st,123566.0,13137.0
+REGION III,Tarlac,Ramos,0.0,5th,20249.0,2440.0
+REGION IV-B,Romblon,Odiongan,0.0,2nd,43676.0,18567.0
+REGION II,Cagayan,Allacapan,0.0,3rd,31662.0,30680.0
+REGION III,Nueva Ecija,Gapan City,1.0,4th Class ,"",16305.0
+CAR,Abra,Malibcong,0.0,5th,3807.0,28317.0
+REGION XIII,Dinagat Islands,Loreto,0.0,4th,8920.0,25587.0
+REGION XI,Davao del Norte,New Corella,0.0,2nd,50699.0,26312.0
+REGION VII,Cebu,Dalaguete,0.0,1st,63239.0,15496.0
+REGION VI,Aklan,Makato,0.0,4th,25461.0,6460.0
+REGION XI,Davao Oriental,San Isidro,0.0,4th,32424.0,22044.0
+REGION II,Isabela,Reina Mercedes,0.0,4th,23497.0,5714.0
+OAV,ASIA,REPUBLIC OF KOREA,-1.0,"","",""
+REGION XI,Davao Oriental,Baganga,0.0,1st,53426.0,94550.0
+REGION IV-A,Quezon,Candelaria,0.0,1st,110570.0,12910.0
+NIR,Negros Oriental,Bais City,1.0,3rd Class ,"",31964.0
+NIR,Negros Occidental,Binalbagan,0.0,1st,65431.0,18996.0
+REGION II,Nueva Vizcaya,Dupax Del Norte,0.0,3rd,25697.0,34730.0
+REGION V,Sorsogon,Gubat,0.0,2nd,57327.0,13451.0
+REGION IV-A,Rizal,Cainta,0.0,1st,311845.0,4299.0
+REGION III,Aurora,Dipaculao,0.0,3rd,27729.0,36164.0
+REGION IV-A,Quezon,Lucena City,1.0,2nd Class ,"",8021.0
+REGION VI,Guimaras,Buenavista,0.0,2nd,46703.0,12826.0
+REGION I,Pangasinan,Villasis,0.0,1st,59111.0,7583.0
+REGION IV-A,Quezon,General Nakar,0.0,1st,25973.0,134375.0
+REGION XIII,Surigao del Sur,San Miguel,0.0,1st,36287.0,55800.0
+REGION VIII,Samar,Tarangnan,0.0,4th,24146.0,13249.0
+REGION V,Camarines Norte,Labo,0.0,1st,92041.0,58936.0
+REGION VII,Bohol,Buenavista,0.0,4th,27031.0,9600.0
+ARMM,Maguindanao,Datu Blah T. Sinsuat,0.0,1st,16533.0,14721.0
+REGION II,Quirino,Nagtipunan,0.0,1st,22473.0,60740.0
+REGION I,Pangasinan,San Manuel,0.0,1st,46875.0,12918.0
+REGION III,Pampanga,Lubao,0.0,1st,150843.0,15577.0
+REGION X,Misamis Oriental,El Salvador City,1.0,6th Class ,"",10615.0
+CAR,Benguet,Kibungan,0.0,4th,16850.0,25486.0
+REGION IV-B,Occidental Mindoro,Mamburao,0.0,2nd,39237.0,28351.0
+CAR,Ifugao,Asipulo,0.0,5th,14403.0,18287.0
+NIR,Negros Occidental,Talisay City,1.0,4th Class ,"",20118.0
+ARMM,Maguindanao,Ampatuan,0.0,-,16295.0,46110.0
+REGION III,Bulacan,San Jose del Monte City,1.0,1st Class-Special,"",10553.0
+REGION VIII,Southern Leyte,Bontoc,0.0,4th,28079.0,10210.0
+REGION VIII,Northern Samar,Rosario,0.0,5th,10214.0,3160.0
+REGION V,Masbate,Mandaon,0.0,3rd,38161.0,28080.0
+REGION XII,Sarangani,Alabel,0.0,1st,75477.0,51098.0
+REGION IX,Zamboanga del Sur,Vincenzo A. Sagun,0.0,5th,20583.0,6300.0
+REGION VI,Aklan,Buruanga,0.0,5th,16962.0,8850.0
+REGION VII,Bohol,Duero,0.0,4th,17580.0,9730.0
+REGION III,Nueva Ecija,Jaen,0.0,2nd,67057.0,8546.0
+REGION X,Bukidnon,Baungon,0.0,2nd,32868.0,32834.0
+REGION X,Bukidnon,Kadingilan,0.0,3rd,31756.0,17194.0
+REGION III,Nueva Ecija,Cabiao,0.0,1st,72081.0,11183.0
+REGION XII,North Cotabato,Matalam,0.0,1st,74034.0,47600.0
+REGION XII,Sarangani,Malapatan,0.0,1st,72386.0,60928.0
+NIR,Negros Occidental,Pontevedra,0.0,3rd,47945.0,11250.0
+ARMM,Maguindanao,Northern Kabuntalan,0.0,5th,14251.0,10677.0
+REGION VIII,Leyte,San Isidro,0.0,4th,28554.0,12250.0
+REGION VIII,Eastern Samar,Taft,0.0,4th,17183.0,23127.0
+CAR,Benguet,Tublay,0.0,5th,16555.0,10255.0
+ARMM,Maguindanao,Sultan Mastura,0.0,5th,21712.0,24207.0
+REGION IX,Zamboanga del Sur,Dinas,0.0,4th,34768.0,12110.0
+REGION IX,Zamboanga del Norte,Pres. Manuel A. Roxas,0.0,5th,37611.0,20625.0
+REGION XIII,Surigao del Sur,San Agustin,0.0,4th,20655.0,27728.0
+REGION IV-A,Cavite,General Mariano Alvarez,0.0,1st,138540.0,4213.0
+REGION X,Misamis Oriental,Gingoog City,1.0,2nd Class ,"",56844.0
+ARMM,Sulu,Pandami,0.0,4th,22474.0,17089.0
+REGION VI,Aklan,Madalag,0.0,4th,18168.0,26960.0
+REGION VI,Antique,Tibiao,0.0,4th,24513.0,17742.0
+REGION XIII,Agusan del Norte,Remedios T. Romualdez,0.0,5th,15735.0,7915.0
+REGION III,Bulacan,San Miguel,0.0,1st,142854.0,23140.0
+REGION VIII,Eastern Samar,Can-Avid,0.0,4th,19785.0,28870.0
+REGION VII,Cebu,Talisay City,1.0,3rd Class ,"",3987.0
+REGION VIII,Northern Samar,Lapinig,0.0,5th,11744.0,5730.0
+REGION X,Bukidnon,Libona,0.0,1st,39393.0,37437.0
+REGION V,Albay,Libon,0.0,1st,71527.0,22276.0
+REGION V,Camarines Norte,Daet,0.0,1st,95572.0,4600.0
+ARMM,Sulu,Parang,0.0,2nd,58028.0,25800.0
+REGION VII,Bohol,Pilar,0.0,4th,26887.0,12039.0
+REGION I,Pangasinan,Pozzorubio,0.0,1st,66111.0,13460.0
+REGION IV-A,Batangas,Lipa City,1.0,1st Class-Special,"",20940.0
+REGION VIII,Eastern Samar,Maslog,0.0,5th,4781.0,24980.0
+ARMM,Lanao del Sur,Calanogas,0.0,5th,11988.0,19500.0
+REGION II,Quirino,Aglipay,0.0,3rd,26187.0,16170.0
+NIR,Negros Occidental,Cadiz City,1.0,2nd Class ,"",52457.0
+REGION IV-B,Palawan,Sofronio Espanola,0.0,2nd,29997.0,47391.0
+REGION VII,Bohol,Trinidad,0.0,3rd,28828.0,19530.0
+ARMM,Maguindanao,Datu Unsay,0.0,5th,12490.0,9539.0
+REGION V,Camarines Sur,Siruma,0.0,4th,17050.0,14127.0
+REGION VII,Bohol,Batuan,0.0,5th,12431.0,4879.0
+REGION V,Masbate,Cataingan,0.0,2nd,49078.0,19164.0
+CAR,Mountain Province,Sadanga,0.0,5th,9181.0,8330.0
+REGION V,Masbate,Cawayan,0.0,2nd,63115.0,26019.0
+REGION III,Nueva Ecija,Cabanatuan City,1.0,1st Class-Special,"",28275.0
+REGION I,Pangasinan,Bayambang,0.0,1st,111521.0,14394.0
+REGION VII,Bohol,Valencia,0.0,4th,27586.0,11667.0
+REGION XIII,Agusan del Norte,Tubay,0.0,4th,20426.0,13809.0
+REGION VIII,Samar,Almagro,0.0,5th,11024.0,5136.0
+REGION XIII,Agusan del Sur,San Francisco,0.0,1st,70986.0,39253.0
+OAV,NORTH AND LATIN AMERICA,CANADA,-1.0,"","",""
+REGION IX,Zamboanga del Sur,Ramon Magsaysay,0.0,4th,26194.0,11370.0
+NIR,Negros Oriental,Santa Catalina,0.0,1st,73306.0,52310.0
+REGION VI,Capiz,Panay,0.0,3rd,43449.0,11637.0
+REGION VII,Bohol,Clarin,0.0,5th,20296.0,5212.0
+ARMM,Maguindanao,Datu Abdullah Sanki,0.0,-,17079.0,22000.0
+ARMM,Sulu,Hadji Panglima Tahil,0.0,6th,5850.0,6790.0
+REGION I,Ilocos Norte,Dumalneg,0.0,5th,1814.0,8848.0
+REGION XI,Davao del Sur,Bansalan,0.0,1st,56496.0,15775.0
+REGION VIII,Samar,Marabut,0.0,5th,15115.0,14355.0
+REGION III,Pampanga,San Luis,0.0,3rd,49311.0,5683.0
+ARMM,Lanao del Sur,Tubaran,0.0,4th,12933.0,43500.0
+REGION I,Ilocos Sur,San Emilio,0.0,4th,7427.0,14144.0
+REGION VI,Capiz,Ma-Ayon,0.0,3rd,36430.0,14232.0
+REGION I,Pangasinan,Alcala,0.0,3rd,41077.0,4571.0
+REGION VIII,Eastern Samar,Jipapad,0.0,5th,7397.0,23480.0
+REGION IV-A,Quezon,Calauag,0.0,1st,69223.0,32471.0
+REGION I,Pangasinan,San Quintin,0.0,3rd,32626.0,11590.0
+REGION I,Pangasinan,Anda,0.0,3rd,37011.0,7455.0
+REGION V,Albay,Legazpi City,1.0,2nd Class ,"",15370.0
+REGION IV-B,Palawan,Linapacan,0.0,5th,222.0,29000.0
+REGION IV-B,Marinduque,Gasan,0.0,3rd,33402.0,10088.0
+CAR,Kalinga,Balbalan,0.0,3rd,12082.0,54269.0
+OAV,EUROPE,UNITED KINGDOM OF GREAT BRITAIN,-1.0,"","",""
+REGION XI,Davao del Norte,Santo Tomas,0.0,1st,109269.0,22180.0
+CAR,Benguet,Tuba,0.0,1st,42874.0,29597.0
+CAR,Ifugao,Aguinaldo,0.0,2nd,18610.0,53805.0
+REGION VII,Cebu,Boljoon,0.0,5th,15027.0,11700.0
+REGION VII,Bohol,Anda,0.0,5th,16909.0,6189.0
+REGION I,Pangasinan,Bani,0.0,2nd,45758.0,17965.0
+REGION V,Camarines Sur,Pamplona,0.0,4th,34471.0,8060.0
+REGION I,Ilocos Sur,Magsingal,0.0,3rd,28302.0,8498.0
+REGION X,Bukidnon,Lantapan,0.0,1st,55934.0,32835.0
+REGION I,Pangasinan,Santo Tomas,0.0,5th,14406.0,1299.0
+REGION I,La Union,San Fernando City,1.0,3rd Class ,"",10272.0
+REGION XII,South Cotabato,Surallah,0.0,1st,76035.0,54030.0
+REGION III,Nueva Ecija,Guimba,0.0,1st,104894.0,24529.0
+REGION IV-B,Occidental Mindoro,Magsaysay,0.0,3rd,31969.0,29670.0
+REGION VII,Cebu,Oslob,0.0,4th,26116.0,13475.0
+REGION III,Nueva Ecija,Licab,0.0,4th,26187.0,6737.0
+REGION III,Bataan,Samal,0.0,4th,33578.0,5630.0
+NCR,Metropolitan Manila,Manila,1.0,1st Class-Special,"",2498.0
+REGION IV-A,Quezon,Catanauan,0.0,1st,65832.0,25307.0
+REGION VI,Iloilo,Anilao,0.0,4th,27486.0,10031.0
+REGION II,Isabela,San Guillermo,0.0,4th,18423.0,32549.0
+REGION IX,Zamboanga del Norte,Dipolog City,1.0,3rd Class ,"",24113.0
+ARMM,Lanao del Sur,Maguing,0.0,2nd,21444.0,81504.0
+CAR,Apayao,Santa Marcela,0.0,4th,12010.0,19632.0
+REGION I,Ilocos Norte,Paoay,0.0,4th,23956.0,7624.0
+NCR,Metropolitan Manila,Navotas,1.0,2nd Class ,"",894.0
+CAR,Apayao,Pudtol,0.0,4th,13305.0,40102.0
+REGION XII,Sultan Kudarat,Palimbang,0.0,2nd,83265.0,48485.0
+REGION VIII,Biliran,Maripipi,0.0,5th,6699.0,2783.0
+REGION VII,Cebu,Catmon,0.0,4th,28320.0,10964.0
+REGION III,Bulacan,Baliuag,0.0,1st,143565.0,4505.0
+REGION V,Camarines Sur,Garchitorena,0.0,4th,25204.0,24380.0
+REGION IV-B,Romblon,Magdiwang,0.0,5th,13584.0,10075.0
+REGION III,Tarlac,San Jose,0.0,3rd,33960.0,59281.0
+REGION X,Misamis Occidental,Oroquieta City,1.0,4th Class ,"",23788.0
+NCR,Metropolitan Manila,San Juan,1.0,1st Class-Special,"",595.0
+REGION IV-A,Laguna,Nagcarlan,0.0,2nd,59726.0,7810.0
+REGION X,Lanao del Norte,Salvador,0.0,5th,27348.0,11399.0
+REGION VII,Cebu,Sibonga,0.0,3rd,43641.0,13345.0
+REGION V,Camarines Sur,Bombon,0.0,5th,15437.0,2873.0
+REGION IV-B,Palawan,Cuyo,0.0,4th,21847.0,8495.0
+REGION IX,Zamboanga del Sur,Dimataling,0.0,4th,27715.0,14180.0
+REGION VIII,Northern Samar,Bobon,0.0,4th,20956.0,13000.0
+REGION IX,Zamboanga del Sur,Guipos,0.0,4th,19771.0,9053.0
+REGION II,Isabela,Quezon,0.0,4th,24522.0,18990.0
+REGION I,Ilocos Sur,Suyo,0.0,4th,10622.0,12400.0
+ARMM,Maguindanao,Cotabato City,1.0,3rd Class ,"",17600.0
+ARMM,Basilan,Tuburan,0.0,-,18635.0,18635.0
+ARMM,Tawi-Tawi,Sitangkai,0.0,1st,30514.0,79200.0
+REGION IX,Zamboanga del Norte,Sirawai,0.0,4th,24583.0,22250.0
+REGION II,Isabela,Ilagan,1.0,- ,"",116626.0
+REGION IV-A,Batangas,Lobo,0.0,3rd,37070.0,17503.0
+REGION X,Lanao del Norte,Baloi,0.0,3rd,50387.0,9098.0
+REGION XIII,Surigao del Sur,Cortes,0.0,4th,15541.0,12708.0
+REGION IV-A,Laguna,Santa Cruz,0.0,1st,110943.0,3859.0
+REGION IX,Zamboanga del Sur,Lapuyan,0.0,3rd,26175.0,32900.0
+CAR,Abra,Pidigan,0.0,5th,11528.0,4915.0
+REGION IV-A,Batangas,Laurel,0.0,3rd,35674.0,7129.0
+REGION I,Pangasinan,Binmaley,0.0,1st,78702.0,11850.0
+REGION VIII,Southern Leyte,Saint Bernard,0.0,4th,25169.0,10020.0
+REGION VI,Iloilo,Cabatuan,0.0,2nd,54950.0,11290.0
+CAR,Benguet,Sablan,0.0,5th,10511.0,10563.0
+NIR,Negros Oriental,Tanjay City,1.0,4th Class ,"",27605.0
+REGION XIII,Surigao del Sur,Tago,0.0,2nd,33993.0,25328.0
+REGION I,Ilocos Sur,Narvacan,0.0,2nd,42803.0,12221.0
+REGION X,Bukidnon,Kitaotao,0.0,1st,49488.0,78878.0
+REGION VIII,Leyte,Julita,0.0,5th,13307.0,5330.0
+REGION IV-B,Oriental Mindoro,Naujan,0.0,1st,94497.0,50310.0
+CAR,Abra,San Quintin,0.0,5th,5233.0,6659.0
+REGION II,Isabela,Palanan,0.0,1st,16094.0,88024.0
+REGION V,Masbate,Balud,0.0,4th,35841.0,23100.0
+REGION IV-A,Batangas,San Nicolas,0.0,5th,20599.0,1437.0
+REGION I,Pangasinan,Sison,0.0,3rd,43979.0,8188.0
+REGION X,Misamis Oriental,Balingasag,0.0,2nd,65876.0,14711.0
+REGION VIII,Northern Samar,Las Navas,0.0,4th,36539.0,28261.0
+REGION VI,Iloilo,Estancia,0.0,2nd,42666.0,2938.0
+REGION VI,Antique,Libertad,0.0,5th,15669.0,9700.0
+REGION III,Aurora,Maria Aurora,0.0,2nd,38128.0,42619.0
+REGION IV-A,Batangas,Santo Tomas,0.0,1st,124740.0,9541.0
+REGION X,Bukidnon,Damulog,0.0,4th,25538.0,24419.0
+REGION IX,Zamboanga del Norte,Katipunan,0.0,2nd,43339.0,24412.0
+REGION II,Isabela,Santo Tomas,0.0,4th,21688.0,6070.0
+REGION IV-A,Laguna,Magdalena,0.0,4th,22976.0,3488.0
+ARMM,Lanao del Sur,Lumbaca Unayan,0.0,-,6279.0,4228.0
+REGION XII,Sultan Kudarat,Kalamansig,0.0,1st,46408.0,69920.0
+REGION IX,Zamboanga del Sur,Pitogo,0.0,4th,25502.0,9594.0
+REGION IV-A,Rizal,Baras,0.0,4th,32609.0,8493.0
+REGION V,Camarines Sur,Sipocot,0.0,1st,64042.0,24343.0
+REGION IV-B,Palawan,Narra,0.0,1st,65264.0,83173.0
+REGION IX,Zamboanga del Norte,Mutia,0.0,5th,11975.0,7358.0
+REGION IV-A,Quezon,Guinayangan,0.0,3rd,41669.0,21412.0
+REGION IV-B,Palawan,Coron,0.0,1st,42941.0,68910.0
+REGION III,Nueva Ecija,Peñaranda,0.0,4th,27410.0,9500.0
+REGION V,Camarines Sur,Del Gallego,0.0,4th,23064.0,20831.0
+REGION X,Lanao del Norte,Baroy,0.0,4th,20948.0,7235.0
+REGION XIII,Surigao del Sur,Madrid,0.0,4th,14888.0,14120.0
+REGION II,Isabela,Quirino,0.0,4th,22285.0,12620.0
+CAR,Benguet,Baguio City,1.0,1st Class-Special,"",5751.0
+REGION III,Tarlac,Tarlac City,1.0,1st Class-Special,"",27466.0
+REGION IX,Zamboanga del Norte,Sibutad,0.0,5th,16783.0,6557.0
+REGION VIII,Leyte,Babatngon,0.0,4th,25575.0,11518.0
+REGION III,Tarlac,La Paz,0.0,2nd,60982.0,11433.0
+REGION IX,Zamboanga del Sur,Mahayag,0.0,3rd,45015.0,19490.0
+NIR,Negros Occidental,Himamaylan City,1.0,3rd Class ,"",36704.0
+REGION IX,Zamboanga Sibugay,Alicia,0.0,3rd,34895.0,18308.0
+REGION II,Isabela,Cabagan,0.0,1st,45732.0,43040.0
+REGION IV-A,Cavite,Dasmariñas,1.0,- ,"",9013.0
+REGION VI,Iloilo,Mina,0.0,5th,21785.0,4340.0
+REGION IV-A,Batangas,Talisay,0.0,3rd,39600.0,2820.0
+REGION IV-A,Rizal,Morong,0.0,2nd,52194.0,3758.0
+REGION XIII,Dinagat Islands,San Jose,0.0,4th,31035.0,2780.0
+CAR,Ifugao,Hingyon,0.0,5th,9795.0,6202.0
+REGION XII,North Cotabato,Banisilan,0.0,2nd,39914.0,57722.0
+REGION V,Masbate,Esperanza,0.0,5th,17357.0,6749.0
+REGION III,Bulacan,Paombong,0.0,3rd,50940.0,4634.0
+REGION II,Isabela,Cauayan City,1.0,3rd Class ,"",33640.0
+REGION III,Tarlac,Santa Ignacia,0.0,2nd,43787.0,14607.0
+REGION III,Nueva Ecija,San Isidro,0.0,2nd,47800.0,5649.0
+REGION IV-A,Quezon,Lucban,0.0,2nd,46698.0,13046.0
+REGION VI,Iloilo,Duenas,0.0,4th,33671.0,9052.0
+ARMM,Basilan,Ungkaya Pukan,0.0,-,17701.0,25703.0
+REGION IV-A,Quezon,Patnanungan,0.0,5th,13865.0,13920.0
+REGION IV-A,Laguna,Siniloan,0.0,2nd,35363.0,6451.0
+REGION VIII,Leyte,Tolosa,0.0,5th,17921.0,2254.0
+REGION III,Bulacan,Bulacan,0.0,1st,71751.0,7290.0
+REGION IV-B,Romblon,Romblon,0.0,3rd,37995.0,8687.0
+REGION V,Camarines Sur,Sagnay,0.0,4th,31314.0,15476.0
+ARMM,Maguindanao,Talayan,0.0,4th,16042.0,14384.0
+REGION IX,Zamboanga Sibugay,Buug,0.0,3rd,35969.0,13406.0
+REGION X,Camiguin,Catarman,0.0,5th,16388.0,5375.0
+CAR,Abra,Sallapadan,0.0,5th,5985.0,12862.0
+REGION VII,Cebu,Cordoba,0.0,3rd,50353.0,1715.0
+REGION VI,Iloilo,San Enrique,0.0,3rd,32422.0,11028.0
+ARMM,Tawi-Tawi,Tandubas,0.0,2nd,27748.0,55205.0
+REGION V,Catanduanes,San Miguel,0.0,5th,14107.0,12994.0
+REGION III,Bulacan,Balagtas,0.0,1st,65440.0,2866.0
+REGION VIII,Leyte,Burauen,0.0,1st,48853.0,26533.0
+REGION XIII,Agusan del Sur,San Luis,0.0,1st,32733.0,95050.0
+REGION VI,Antique,Barbaza,0.0,4th,21775.0,15436.0
+REGION I,La Union,Burgos,0.0,5th,7850.0,7080.0
+REGION III,Bataan,Bagac,0.0,3rd,25568.0,23120.0
+NIR,Negros Occidental,La Castellana,0.0,1st,71013.0,18522.0
+REGION IV-B,Romblon,San Agustin,0.0,4th,22116.0,14048.0
+REGION X,Misamis Occidental,Concepcion,0.0,6th,7410.0,6160.0
+REGION IV-B,Romblon,San Fernando,0.0,4th,22466.0,19687.0
+REGION VIII,Southern Leyte,Limasawa,0.0,6th,5835.0,698.0
+REGION X,Misamis Occidental,Baliangao,0.0,5th,16155.0,8172.0
+REGION IX,Zamboanga del Norte,Sindangan,0.0,1st,94146.0,45100.0
+CAR,Mountain Province,Besao,0.0,5th,7818.0,17362.0
+REGION X,Lanao del Norte,Poona Piagapo,0.0,4th,23451.0,26007.0
+REGION I,La Union,Tubao,0.0,4th,26993.0,5075.0
+REGION V,Sorsogon,Barcelona,0.0,5th,20340.0,6118.0
+REGION VII,Bohol,Sevilla,0.0,5th,10443.0,11675.0
+REGION IV-A,Quezon,San Francisco,0.0,2nd,57979.0,30396.0
+ARMM,Basilan,Lamitan City,1.0,6th Class ,"",35445.0
+ARMM,Maguindanao,Datu Saudi-Ampatuan,0.0,4th,20330.0,6016.0
+REGION III,Bataan,Orani,0.0,1st,61099.0,6490.0
+REGION VI,Iloilo,Calinog,0.0,1st,54430.0,27455.0
+REGION VI,Iloilo,Maasin,0.0,3rd,35069.0,12859.0
+REGION XI,Davao del Norte,Panabo City,1.0,3rd Class ,"",25123.0
+NIR,Negros Occidental,Candoni,0.0,4th,21336.0,19170.0
+REGION IV-A,Cavite,Alfonso,0.0,1st,48567.0,6658.0
+REGION XI,Compostela Valley,Nabunturan,0.0,1st,73196.0,23130.0
+REGION IV-A,Batangas,Mabini,0.0,1st,44391.0,4447.0
+REGION XIII,Agusan del Sur,La Paz,0.0,1st,28562.0,148112.0
+REGION V,Camarines Sur,Buhi,0.0,1st,73809.0,24665.0
+ARMM,Lanao del Sur,Picong,0.0,-,14136.0,28000.0
+REGION X,Lanao del Norte,Matungao,0.0,5th,12217.0,4574.0
+REGION VIII,Leyte,Matag-Ob,0.0,4th,17089.0,10440.0
+REGION X,Lanao del Norte,Iligan City,1.0,1st Class-Special,"",81337.0
+REGION V,Sorsogon,Bulusan,0.0,4th,22089.0,9630.0
+REGION I,Ilocos Sur,Candon City,1.0,4th Class ,"",10328.0
+REGION IV-A,Batangas,Batangas City,1.0,1st Class-Special,"",28296.0
+REGION XI,Compostela Valley,Mabini,0.0,2nd,36807.0,40000.0
+REGION II,Cagayan,Santa Teresita,0.0,4th,17600.0,16698.0
+REGION I,Pangasinan,Labrador,0.0,4th,21149.0,9099.0
+REGION VIII,Eastern Samar,San Julian,0.0,5th,13748.0,15062.0
+ARMM,Sulu,Tongkil,0.0,4th,17802.0,35259.0
+REGION IV-B,Oriental Mindoro,Victoria,0.0,2nd,48308.0,14623.0
+REGION VI,Antique,San Jose,0.0,1st,57847.0,4856.0
+NIR,Negros Occidental,Pulupandan,0.0,3rd,25350.0,2300.0
+CAR,Mountain Province,Bontoc,0.0,2nd,23980.0,39610.0
+REGION IV-A,Batangas,Balayan,0.0,1st,81805.0,10873.0
+CAR,Abra,Boliney,0.0,5th,4063.0,21692.0
+NIR,Negros Oriental,Canlaon City,1.0,4th Class ,"",17093.0
+REGION IV-A,Cavite,Silang,0.0,1st,213490.0,20943.0
+REGION VI,Aklan,Batan,0.0,4th,30312.0,7922.0
+REGION I,Ilocos Sur,Gregorio Del Pilar,0.0,5th,4219.0,4166.0
+ARMM,Lanao del Sur,Tagoloan II,0.0,4th,9843.0,36235.0
+REGION I,Pangasinan,Santa Barbara,0.0,1st,76637.0,6137.0
+REGION XI,Davao del Norte,Kapalong,0.0,1st,68261.0,83001.0
+REGION II,Cagayan,Lal-Lo,0.0,1st,41388.0,70280.0
+REGION II,Cagayan,Peñablanca,0.0,1st,42736.0,119320.0
+REGION III,Nueva Ecija,Carranglan,0.0,1st,37124.0,70531.0
+REGION VIII,Southern Leyte,Liloan,0.0,4th,22817.0,5030.0
+REGION IV-A,Cavite,Naic,0.0,1st,88144.0,7624.0
+REGION VIII,Eastern Samar,Guiuan,0.0,2nd,47037.0,17549.0
+REGION VII,Cebu,Danao City,1.0,3rd Class ,"",10730.0
+REGION VIII,Eastern Samar,Sulat,0.0,4th,15184.0,16975.0
+REGION IV-A,Batangas,Mataas Na Kahoy,0.0,4th,27177.0,2210.0
+REGION XII,Sarangani,Maasim,0.0,1st,52933.0,50043.0
+REGION XIII,Surigao del Sur,Lingig,0.0,2nd,31544.0,30517.0
+REGION VIII,Southern Leyte,Padre Burgos,0.0,5th,10525.0,2565.0
+ARMM,Maguindanao,Pandag,0.0,-,13795.0,8531.0
+REGION III,Bataan,Limay,0.0,1st,57207.0,10360.0
+REGION VII,Bohol,Tagbilaran City,1.0,3rd Class ,"",3650.0
+ARMM,Lanao del Sur,Sultan Dumalondong,0.0,6th,10522.0,27580.0
+REGION VIII,Northern Samar,Laoang,0.0,2nd,58037.0,24694.0
+REGION II,Isabela,Angadanan,0.0,3rd,40143.0,20440.0
+REGION I,Pangasinan,Mapandan,0.0,3rd,34439.0,3000.0
+ARMM,Lanao del Sur,Mulondo,0.0,3rd,14065.0,45867.0
+REGION VIII,Samar,San Sebastian,0.0,6th,7708.0,3907.0
+NIR,Negros Oriental,Bacong,0.0,4th,32286.0,4030.0
+REGION IV-A,Quezon,Plaridel,0.0,5th,10238.0,3505.0
+REGION IX,Zamboanga del Norte,Gutalac,0.0,2nd,32153.0,49286.0
+REGION IV-A,Laguna,San Pedro,1.0,- ,"",2405.0
+REGION VIII,Biliran,Kawayan,0.0,5th,20238.0,6102.0
+ARMM,Maguindanao,Talitay,0.0,-,13328.0,6296.0
+REGION II,Cagayan,Camalaniugan,0.0,4th,23404.0,7650.0
+REGION I,Pangasinan,San Nicolas,0.0,1st,34108.0,21020.0
+REGION I,Ilocos Norte,Laoag City,1.0,3rd Class ,"",11608.0
+REGION VI,Iloilo,Concepcion,0.0,3rd,39617.0,8612.0
+REGION X,Bukidnon,Talakag,0.0,1st,67123.0,78640.0
+REGION X,Misamis Oriental,Jasaan,0.0,2nd,50121.0,7702.0
+ARMM,Sulu,Talipao,0.0,1st,75173.0,38057.0
+REGION VI,Iloilo,San Joaquin,0.0,2nd,51645.0,23484.0
+REGION X,Misamis Oriental,Sugbongcogon,0.0,5th,8745.0,2650.0
+REGION IV-B,Palawan,El Nido,0.0,1st,36191.0,92326.0
+ARMM,Lanao del Sur,Kapatagan,0.0,4th,13432.0,28813.0
+NIR,Negros Occidental,Toboso,0.0,3rd,41658.0,11733.0
+ARMM,Lanao del Sur,Lumba-Bayabao,0.0,2nd,32412.0,64002.0
+NCR,Metropolitan Manila,Kalookan City,1.0,1st Class-Special,"",5580.0
+CAR,Apayao,Luna,0.0,2nd,18029.0,60604.0
+REGION VI,Aklan,Libacao,0.0,3rd,28005.0,25498.0
+REGION VII,Bohol,Loay,0.0,5th,16261.0,4824.0
+REGION X,Misamis Oriental,Lugait,0.0,2nd,18639.0,2745.0
+REGION I,Pangasinan,Mangaldan,0.0,1st,98905.0,4847.0
+REGION V,Camarines Norte,Basud,0.0,3rd,38176.0,26028.0
+ARMM,Lanao del Sur,Ganassi,0.0,4th,20205.0,25600.0
+REGION IV-A,Cavite,Noveleta,0.0,3rd,41678.0,1643.0
+REGION VIII,Leyte,Villaba,0.0,3rd,38819.0,15031.0
+REGION IV-A,Cavite,Ternate,0.0,4th,19297.0,5993.0
+REGION V,Catanduanes,Gigmoto,0.0,5th,8003.0,18182.0
+REGION XI,Davao del Norte,Samal City,1.0,4th Class ,"",30130.0
+REGION XIII,Surigao del Norte,Alegria,0.0,5th,14539.0,6528.0
+OAV,NORTH AND LATIN AMERICA,WASHINGTON D.C. PE,-1.0,"","",""
+REGION III,Bulacan,Norzagaray,0.0,1st,103095.0,30977.0
+CAR,Kalinga,Rizal,0.0,4th,15942.0,23100.0
+REGION X,Misamis Oriental,Binuangan,0.0,6th,6765.0,3043.0
+REGION IV-A,Batangas,Rosario,0.0,1st,105561.0,22688.0
+REGION II,Nueva Vizcaya,Bagabag,0.0,2nd,35462.0,18390.0
+REGION IV-B,Palawan,Araceli,0.0,4th,14113.0,20430.0
+REGION III,Tarlac,San Manuel,0.0,4th,24289.0,4210.0
+REGION VII,Bohol,Dauis,0.0,4th,39448.0,4333.0
+REGION I,Pangasinan,Bautista,0.0,4th,30193.0,4633.0
+REGION I,Ilocos Sur,Santa Cruz,0.0,1st,37911.0,8878.0
+REGION VIII,Leyte,Tabontabon,0.0,5th,9838.0,2418.0
+REGION XIII,Surigao del Sur,Tandag City,1.0,5th Class ,"",29173.0
+REGION IV-B,Palawan,Taytay,0.0,1st,70837.0,125768.0
+REGION I,Pangasinan,Lingayen,0.0,1st,98740.0,6276.0
+REGION IX,Zamboanga del Sur,San Pablo,0.0,4th,26500.0,14990.0
+REGION IV-A,Laguna,Luisiana,0.0,4th,20148.0,7331.0
+REGION XIII,Surigao del Norte,Malimono,0.0,5th,18316.0,8013.0
+REGION XII,South Cotabato,Norala,0.0,3rd,44635.0,12320.0
+REGION XIII,Agusan del Norte,Jabonga,0.0,3rd,23833.0,29300.0
+REGION V,Sorsogon,Irosin,0.0,2nd,51777.0,14987.0
+REGION IV-A,Laguna,Calauan,0.0,2nd,74890.0,6540.0
+REGION XIII,Surigao del Sur,Lanuza,0.0,4th,11857.0,29060.0
+REGION V,Camarines Norte,San Vicente,0.0,5th,10114.0,5749.0
+REGION VI,Capiz,Pontevedra,0.0,3rd,43525.0,13090.0
+REGION VI,Antique,Laua-An,0.0,4th,25211.0,10072.0
+REGION XI,Compostela Valley,Maco,0.0,1st,72235.0,34223.0
+REGION VIII,Leyte,Albuera,0.0,3rd,40553.0,30335.0
+REGION V,Camarines Sur,Ocampo,0.0,3rd,43523.0,11833.0
+REGION XII,Sultan Kudarat,Lebak,0.0,1st,83280.0,47086.0
+REGION VIII,Leyte,Leyte,0.0,4th,37505.0,18126.0
+REGION III,Bulacan,Malolos City,1.0,3rd Class ,"",6725.0
+REGION III,Zambales,Cabangan,0.0,4th,23082.0,17529.0
+REGION VII,Bohol,Ubay,0.0,1st,68578.0,33506.0
+REGION VI,Iloilo,Miagao,0.0,1st,64545.0,15680.0
+REGION III,Pampanga,Arayat,0.0,1st,121348.0,13448.0
+REGION VI,Antique,San Remigio,0.0,3rd,30446.0,40698.0
+REGION IV-A,Cavite,Kawit,0.0,1st,78209.0,2286.0
+REGION XIII,Agusan del Norte,Magallanes,0.0,4th,21481.0,4431.0
+ARMM,Lanao del Sur,Buadiposo-Buntong,0.0,4th,15662.0,21500.0
+REGION XI,Davao del Sur,Sulop,0.0,3rd,32163.0,15526.0
+REGION IX,Zamboanga Sibugay,Payao,0.0,3rd,29755.0,24566.0
+ARMM,Lanao del Sur,Bacolod Kalawi,0.0,3rd,18555.0,49157.0
+REGION III,Pampanga,Angeles City,1.0,1st Class-Special,"",6027.0
+REGION IV-A,Batangas,Santa Teresita,0.0,5th,17415.0,1630.0
+REGION VI,Iloilo,Zarraga,0.0,4th,23693.0,5448.0
+REGION VI,Iloilo,Carles,0.0,2nd,62690.0,10405.0
+REGION VIII,Southern Leyte,Pintuyan,0.0,5th,9261.0,3698.0
+REGION VIII,Northern Samar,Biri,0.0,5th,10987.0,2462.0
+REGION IV-B,Romblon,Calatrava,0.0,5th,9776.0,8670.0
+REGION VII,Cebu,Samboan,0.0,5th,18613.0,4516.0
+REGION XI,Davao Oriental,Tarragona,0.0,3rd,25671.0,30076.0
+REGION VIII,Leyte,Palo,0.0,3rd,62727.0,22127.0
+REGION IV-B,Occidental Mindoro,Abra de Ilog,0.0,2nd,29225.0,53370.0
+REGION IV-A,Quezon,Quezon,0.0,5th,15142.0,7122.0
+NIR,Negros Oriental,Pamplona,0.0,3rd,34906.0,20220.0
+REGION III,Tarlac,Anao,0.0,5th,10873.0,2387.0
+ARMM,Maguindanao,South Upi,0.0,4th,35990.0,18480.0
+REGION VII,Cebu,Tuburan,0.0,2nd,58914.0,22450.0
+REGION VIII,Leyte,Inopacan,0.0,4th,19904.0,9462.0
+REGION I,Ilocos Sur,Sinait,0.0,3rd,25427.0,6556.0
+REGION VI,Capiz,Cuartero,0.0,4th,25456.0,10658.0
+REGION V,Sorsogon,Pilar,0.0,1st,68245.0,24800.0
+REGION VIII,Southern Leyte,Tomas Oppus,0.0,5th,15807.0,5611.0
+REGION I,Ilocos Sur,Santa,0.0,4th,15106.0,10910.0
+REGION V,Catanduanes,San Andres,0.0,3rd,35779.0,16731.0
+REGION II,Batanes,Basco,0.0,5th,7907.0,4946.0
+REGION VII,Cebu,Santander,0.0,4th,16105.0,2953.0
+REGION VIII,Biliran,Naval,0.0,2nd,48799.0,10824.0
+REGION X,Misamis Occidental,Don Victoriano Chiongbian,0.0,4th,9774.0,28460.0
+REGION IX,Zamboanga del Norte,La Libertad,0.0,5th,7771.0,6951.0
+NCR,Metropolitan Manila,Mandaluyong,1.0,1st Class-Special,"",929.0
+REGION X,Bukidnon,Kalilangan,0.0,2nd,39847.0,25143.0
+REGION VIII,Leyte,Javier,0.0,4th,23878.0,15270.0
+REGION IX,Zamboanga Sibugay,Tungawan,0.0,2nd,40552.0,47328.0
+REGION VIII,Eastern Samar,San Policarpo,0.0,5th,13836.0,7800.0
+ARMM,Tawi-Tawi,Mapun,0.0,4th,24168.0,18129.0
+ARMM,Maguindanao,Gen. S. K. Pendatun,0.0,4th,24004.0,18937.0
+REGION III,Pampanga,Santo Tomas,0.0,4th,38062.0,2130.0
+REGION XII,Sarangani,Malungon,0.0,1st,95044.0,75092.0
+REGION V,Albay,Jovellar,0.0,4th,16899.0,10540.0
+CAR,Abra,Licuan-Baay,0.0,5th,4864.0,25642.0
+REGION VIII,Eastern Samar,Hernani,0.0,5th,8070.0,4942.0
+REGION V,Albay,Polangui,0.0,1st,82307.0,14530.0
+REGION III,Nueva Ecija,Zaragoza,0.0,3rd,44124.0,7202.0
+REGION V,Albay,Tiwi,0.0,1st,50163.0,10576.0
+REGION IV-A,Quezon,Polillo,0.0,3rd,28125.0,25300.0
+ARMM,Lanao del Sur,Bayang,0.0,5th,21472.0,23000.0
+REGION V,Sorsogon,Donsol,0.0,3rd,47563.0,15620.0
+REGION IV-A,Laguna,Cavinti,0.0,3rd,20809.0,20358.0
+REGION V,Masbate,San Pascual,0.0,3rd,44753.0,24665.0
+REGION III,Zambales,Botolan,0.0,1st,54434.0,73528.0
+REGION V,Masbate,Masbate City,1.0,4th Class ,"",18800.0
+REGION II,Nueva Vizcaya,Aritao,0.0,2nd,37115.0,26560.0
+REGION II,Cagayan,Rizal,0.0,5th,18592.0,12440.0
+REGION X,Misamis Oriental,Balingoan,0.0,5th,10175.0,5780.0
+REGION IV-B,Oriental Mindoro,Pinamalayan,0.0,1st,81666.0,28226.0
+REGION X,Misamis Oriental,Libertad,0.0,5th,11586.0,2247.0
+REGION VIII,Leyte,Isabel,0.0,1st,43593.0,6401.0
+REGION XII,South Cotabato,Polomolok,0.0,1st,138273.0,33997.0
+REGION XI,Davao del Sur,Kiblawan,0.0,2nd,44618.0,39007.0
+REGION IX,Zamboanga del Norte,Sergio Osmena Sr.,0.0,2nd,29453.0,55644.0
+REGION X,Misamis Oriental,Magsaysay,0.0,4th,33047.0,14314.0
+REGION I,Ilocos Norte,Solsona,0.0,3rd,22990.0,16623.0
+REGION XII,Sultan Kudarat,Esperanza,0.0,1st,63207.0,32429.0
+REGION I,La Union,Pugo,0.0,5th,16518.0,6284.0
+REGION III,Pampanga,Mexico,0.0,1st,146851.0,11741.0
+REGION VI,Iloilo,Dumangas,0.0,1st,66108.0,12870.0
+REGION VI,Aklan,Lezo,0.0,5th,14518.0,2340.0
+REGION IV-A,Cavite,Magallanes,0.0,4th,21231.0,7307.0
+REGION VII,Cebu,Sogod,0.0,4th,30626.0,11923.0
+REGION IV-A,Laguna,Pagsanjan,0.0,3rd,39313.0,2636.0
+REGION I,Pangasinan,Dagupan City,1.0,2nd Class ,"",3723.0
+REGION II,Batanes,Uyugan,0.0,6th,1240.0,1628.0
+ARMM,Maguindanao,Sultan Sa Barongis,0.0,2nd,22547.0,29130.0
+REGION II,Isabela,Gamu,0.0,4th,28657.0,12940.0
+REGION VI,Iloilo,Leganes,0.0,4th,29438.0,3220.0
+REGION III,Zambales,Subic,0.0,1st,89724.0,28716.0
+REGION IX,Zamboanga del Sur,Josefina,0.0,5th,10826.0,5635.0
+REGION VIII,Northern Samar,Mapanas,0.0,5th,12423.0,11785.0
+REGION VIII,Eastern Samar,Mercedes,0.0,5th,5369.0,2332.0
+REGION XI,Davao del Sur,Santa Cruz,0.0,1st,81093.0,31991.0
+REGION I,Pangasinan,Bugallon,0.0,2nd,64253.0,18964.0
+REGION VI,Aklan,Kalibo,0.0,1st,74619.0,5075.0
+REGION XIII,Agusan del Sur,Prosperidad,0.0,1st,76628.0,50515.0
+REGION XI,Compostela Valley,Monkayo,0.0,1st,94827.0,60961.0
+REGION VII,Bohol,Bilar,0.0,4th,17098.0,12971.0
+REGION XIII,Agusan del Norte,Buenavista,0.0,1st,56139.0,47561.0
+REGION III,Bataan,Mariveles,0.0,1st,112707.0,15390.0
+REGION VII,Cebu,Tabogon,0.0,3rd,33024.0,10135.0
+CAR,Kalinga,Lubuagan,0.0,4th,9369.0,23420.0
+REGION VIII,Southern Leyte,Macrohon,0.0,4th,25386.0,12639.0
+REGION XII,South Cotabato,T'Boli,0.0,1st,79175.0,89583.0
+NCR,Metropolitan Manila,Muntinlupa,1.0,1st Class-Special,"",3975.0
+REGION I,Ilocos Sur,Bantay,0.0,3rd,34323.0,7660.0
+REGION XIII,Dinagat Islands,Cagdianao,0.0,3rd,15047.0,24948.0
+ARMM,Sulu,Tapul,0.0,5th,16370.0,8917.0
+REGION II,Nueva Vizcaya,Diadi,0.0,4th,16484.0,18120.0
+REGION VII,Bohol,Pres. Carlos P. Garcia,0.0,4th,23287.0,5482.0
+REGION X,Misamis Oriental,Naawan,0.0,4th,18895.0,8850.0
+NIR,Negros Occidental,Salvador Benedicto,0.0,4th,23624.0,17050.0
+REGION IV-A,Rizal,Rodriguez,0.0,1st,280904.0,17265.0
+NIR,Negros Oriental,Tayasan,0.0,3rd,34609.0,15420.0
+NIR,Negros Occidental,Hinoba-An,0.0,1st,54624.0,41450.0
+REGION I,Pangasinan,San Fabian,0.0,1st,77899.0,8128.0
+NIR,Negros Oriental,Ayungon,0.0,2nd,46146.0,26510.0
+CAR,Abra,Villaviciosa,0.0,5th,5377.0,10293.0
+CAR,Kalinga,Tanudan,0.0,4th,8529.0,30755.0
+CAR,Benguet,Mankayan,0.0,1st,35586.0,13048.0
+REGION V,Masbate,Palanas,0.0,4th,25501.0,17110.0
+REGION XII,Sultan Kudarat,Columbio,0.0,1st,27440.0,92615.0
+REGION X,Misamis Occidental,Clarin,0.0,4th,35573.0,8450.0
+REGION XIII,Surigao del Sur,Cagwait,0.0,4th,18899.0,21410.0
+REGION IV-B,Occidental Mindoro,San Jose,0.0,1st,131188.0,44670.0
+CAR,Mountain Province,Natonin,0.0,4th,10048.0,25200.0
+REGION I,Ilocos Sur,Cervantes,0.0,4th,16573.0,23470.0
+REGION VII,Cebu,Barili,0.0,2nd,65524.0,12221.0
+REGION VI,Capiz,Pilar,0.0,3rd,41572.0,7799.0
+REGION VIII,Southern Leyte,San Juan,0.0,5th,14073.0,9612.0
+REGION III,Pampanga,San Simon,0.0,4th,48353.0,5737.0
+REGION I,La Union,Balaoan,0.0,1st,37910.0,6870.0
+REGION XII,Sarangani,Glan,0.0,1st,106518.0,61030.0
+ARMM,Maguindanao,Ampatuan,0.0,4th,17800.0,25540.0
+REGION V,Camarines Norte,Jose Panganiban,0.0,2nd,55557.0,21444.0
+REGION IV-A,Quezon,San Narciso,0.0,3rd,45386.0,26358.0
+REGION VIII,Leyte,Dulag,0.0,3rd,41757.0,11070.0
+ARMM,Lanao del Sur,Wao,0.0,2nd,40479.0,48524.0
+OAV,NORTH AND LATIN AMERICA,AGANA PCG,-1.0,"","",""
+REGION V,Catanduanes,Panganiban,0.0,5th,9738.0,7996.0
+REGION VI,Iloilo,Sara,0.0,2nd,46889.0,16902.0
+REGION VII,Cebu,Tudela,0.0,5th,9859.0,3302.0
+REGION V,Masbate,Monreal,0.0,4th,25366.0,12867.0
+CAR,Abra,Bucay,0.0,5th,17126.0,10216.0
+REGION I,Ilocos Sur,Caoayan,0.0,4th,18551.0,1742.0
+OAV,MIDDLE EAST AND AFRICAS,KINGDOM OF BAHRAIN,-1.0,"","",""
+REGION XIII,Surigao del Sur,Carmen,0.0,5th,10287.0,16001.0
+REGION X,Lanao del Norte,Bacolod,0.0,4th,21818.0,10410.0
+ARMM,Lanao del Sur,Lumbatan,0.0,5th,16719.0,15839.0
+REGION IX,Zamboanga Sibugay,Olutanga,0.0,4th,28717.0,11330.0
+REGION X,Bukidnon,Maramag,0.0,1st,90901.0,44726.0
+REGION IV-A,Laguna,Santa Rosa City,1.0,1st Class-Special,"",5484.0
+ARMM,Lanao del Sur,Bumbaran,0.0,3rd,8734.0,54410.0
+REGION III,Aurora,San Luis,0.0,2nd,25276.0,62386.0
+REGION VIII,Leyte,Hindang,0.0,5th,20179.0,5004.0
+REGION IV-A,Batangas,San Pascual,0.0,1st,59598.0,5070.0
+ARMM,Lanao del Sur,Tugaya,0.0,5th,22235.0,15510.0
+REGION VIII,Samar,Santa Margarita,0.0,4th,24850.0,12912.0
+REGION IX,Zamboanga del Norte,Labason,0.0,3rd,40375.0,16958.0
+REGION VIII,Northern Samar,Gamay,0.0,4th,22425.0,11510.0
+REGION II,Isabela,San Mateo,0.0,1st,60792.0,12060.0
+REGION XIII,Agusan del Sur,Esperanza,0.0,1st,51897.0,135548.0
+REGION I,Pangasinan,Urbiztondo,0.0,3rd,47831.0,8180.0
+CAR,Ifugao,Hungduan,0.0,4th,9933.0,26030.0
+REGION VIII,Leyte,Abuyog,0.0,1st,57146.0,68825.0
+REGION IV-B,Palawan,Aborlan,0.0,1st,32209.0,80733.0
+REGION II,Isabela,Benito Soliven,0.0,4th,27337.0,18440.0
+REGION III,Nueva Ecija,General Tinio,0.0,1st,42634.0,53308.0
+REGION VII,Bohol,Alicia,0.0,4th,22285.0,11450.0
+REGION XII,South Cotabato,Santo Nino,0.0,3rd,39738.0,8620.0
+REGION V,Camarines Sur,Baao,0.0,3rd,54971.0,10663.0
+REGION VII,Cebu,Medellin,0.0,2nd,50047.0,7319.0
+REGION V,Camarines Sur,Lupi,0.0,3rd,30118.0,19912.0
+REGION III,Pampanga,Candaba,0.0,1st,102399.0,17640.0
+NCR,Metropolitan Manila,Makati City,1.0,1st Class-Special,"",2157.0
+REGION V,Albay,Ligao City,1.0,4th Class ,"",24675.0
+REGION VII,Cebu,Pilar,0.0,5th,11564.0,3242.0
+NIR,Negros Occidental,Kabankalan City,1.0,1st Class-Special,"",69735.0
+REGION II,Batanes,Itbayat,0.0,5th,2988.0,8313.0
+REGION IX,Zamboanga del Norte,Sibuco,0.0,1st,31982.0,78254.0
+REGION V,Catanduanes,Bato,0.0,5th,19984.0,4862.0
+REGION III,Nueva Ecija,Bongabon,0.0,2nd,59343.0,28695.0
+REGION V,Sorsogon,Matnog,0.0,3rd,37641.0,16240.0
+REGION IV-A,Quezon,Agdangan,0.0,5th,11567.0,3154.0
+REGION VII,Bohol,Carmen,0.0,2nd,43579.0,23945.0
+ARMM,Tawi-Tawi,Sibutu,0.0,-,28532.0,28532.0
+CAR,Abra,Lagangilang,0.0,5th,13824.0,10144.0
+REGION VIII,Samar,Gandara,0.0,2nd,31943.0,57349.0
+REGION V,Camarines Sur,Presentacion,0.0,4th,20023.0,14380.0
+REGION VIII,Leyte,Macarthur,0.0,-,18724.0,5757.0
+REGION I,Ilocos Norte,Piddig,0.0,3rd,20606.0,21620.0
+REGION X,Lanao del Norte,Tangcal,0.0,5th,12588.0,17862.0
+REGION III,Nueva Ecija,Gabaldon,0.0,3rd,32246.0,24288.0
+REGION V,Camarines Sur,Cabusao,0.0,5th,18049.0,4680.0
+REGION IX,Zamboanga del Norte,Dapitan City,1.0,3rd Class ,"",39053.0
+REGION XII,North Cotabato,Libungan,0.0,2nd,45295.0,17250.0
+REGION VIII,Samar,San Jose de Buan,0.0,4th,6563.0,36690.0
+REGION III,Nueva Ecija,General Mamerto Natividad,0.0,4th,36720.0,11800.0
+ARMM,Lanao del Sur,Marantao,0.0,2nd,28550.0,66000.0
+REGION VII,Cebu,Dumanjug,0.0,3rd,46754.0,8553.0
+REGION XIII,Surigao del Norte,Pilar,0.0,5th,9456.0,7711.0
+REGION VII,Bohol,Cortes,0.0,5th,15294.0,2732.0
+REGION II,Isabela,San Mariano,0.0,1st,51438.0,146950.0
+REGION XII,North Cotabato,Antipas,0.0,2nd,25242.0,55250.0
+ARMM,Lanao del Sur,Ditsaan-Ramain,0.0,3rd,20208.0,52798.0
+REGION VI,Aklan,Nabas,0.0,4th,31052.0,9682.0
+REGION IV-A,Quezon,Tayabas City,1.0,6th Class ,"",23095.0
+REGION IV-A,Laguna,Pakil,0.0,5th,20822.0,4650.0
+REGION IV-A,Batangas,Lian,0.0,3rd,45943.0,7680.0
+REGION IV-B,Oriental Mindoro,Gloria,0.0,3rd,42012.0,24552.0
+REGION XIII,Agusan del Norte,Kitcharao,0.0,4th,17377.0,17192.0
+REGION VI,Capiz,Mambusao,0.0,3rd,37672.0,13691.0
+REGION VI,Antique,Patnongon,0.0,3rd,35102.0,16792.0
+ARMM,Lanao del Sur,Madalum,0.0,3rd,20243.0,49839.0
+ARMM,Lanao del Sur,Taraka,0.0,4th,20881.0,43540.0
+ARMM,Maguindanao,Pagalungan,0.0,1st,31891.0,89876.0
+REGION XI,Davao Oriental,Boston,0.0,3rd,12670.0,35703.0
+REGION XII,South Cotabato,Tupi,0.0,1st,61843.0,22800.0
+REGION XII,Sultan Kudarat,Lambayong,0.0,2nd,65557.0,22688.0
+REGION IX,Zamboanga del Norte,Bacungan,0.0,4th,24643.0,25550.0
+REGION IV-A,Laguna,Famy,0.0,5th,15021.0,5306.0
+REGION IV-A,Batangas,Padre Garcia,0.0,2nd,44877.0,4151.0
+REGION VIII,Eastern Samar,Balangiga,0.0,4th,12756.0,19005.0
+REGION VII,Bohol,Loon,0.0,2nd,42800.0,11336.0
+REGION IX,Zamboanga Sibugay,Roseller Lim,0.0,3rd,37216.0,30000.0
+REGION III,Bulacan,Pulilan,0.0,1st,85844.0,3989.0
+REGION XI,Davao del Norte,Braulio E. Dujali,0.0,4th,28339.0,9100.0
+NCR,Metropolitan Manila,Las Piñas,1.0,1st Class-Special,"",3269.0
+REGION I,Pangasinan,Natividad,0.0,4th,22713.0,13436.0
+REGION VIII,Leyte,Palompon,0.0,2nd,54163.0,12607.0
+REGION I,Ilocos Sur,San Ildefonso,0.0,5th,7075.0,1135.0
+REGION I,Ilocos Norte,Currimao,0.0,4th,11970.0,3408.0
+REGION VI,Guimaras,Sibunag,0.0,4th,19565.0,12004.0
+REGION IV-A,Quezon,Pitogo,0.0,4th,21380.0,7339.0
+REGION XIII,Surigao del Norte,San Francisco,0.0,5th,13335.0,5672.0
+REGION I,Pangasinan,Basista,0.0,4th,30385.0,2400.0
+REGION XI,Davao del Sur,Matanao,0.0,2nd,51382.0,20240.0
+REGION II,Nueva Vizcaya,Alfonso Castaneda,0.0,1st,7428.0,37540.0
+ARMM,Sulu,Patikul,0.0,3rd,42036.0,33004.0
+REGION IX,Zamboanga del Norte,Godod,0.0,4th,17788.0,19000.0
+REGION VI,Capiz,Tapaz,0.0,1st,48051.0,51718.0
+REGION IV-A,Rizal,Jala-Jala,0.0,4th,30074.0,4412.0
+REGION I,Ilocos Sur,San Vicente,0.0,5th,11720.0,1260.0
+REGION VII,Cebu,Compostela,0.0,3rd,42574.0,5390.0
+ARMM,Maguindanao,Barira,0.0,4th,19686.0,39261.0
+REGION IV-A,Quezon,Panukulan,0.0,4th,12511.0,22661.0
+REGION IV-A,Laguna,Paete,0.0,4th,23523.0,5502.0
+REGION XI,Compostela Valley,Mawab,0.0,3rd,35698.0,13610.0
+REGION VIII,Southern Leyte,Anahawan,0.0,5th,7942.0,5809.0
+REGION IV-B,Romblon,Corcuera,0.0,5th,9935.0,2853.0
+REGION I,Ilocos Sur,Quirino,0.0,4th,8535.0,24010.0
+ARMM,Basilan,Al-Barka,0.0,-,19523.0,18870.0
+REGION III,Zambales,Castillejos,0.0,3rd,48845.0,9299.0
+REGION I,Ilocos Sur,Sigay,0.0,5th,2419.0,8155.0
+REGION XIII,Agusan del Sur,Veruela,0.0,2nd,40457.0,38545.0
+REGION V,Sorsogon,Santa Magdalena,0.0,5th,16520.0,4350.0
+REGION XIII,Agusan del Sur,Talacogon,0.0,2nd,37224.0,40525.0
+REGION III,Bataan,Hermosa,0.0,1st,56997.0,15700.0
+REGION I,Ilocos Sur,Vigan City,1.0,4th Class ,"",2512.0
+REGION IV-A,Batangas,Taysan,0.0,2nd,35357.0,9362.0
+REGION VIII,Leyte,Baybay City,1.0,- ,"",45934.0
+REGION VIII,Samar,Calbayog City,1.0,1st Class-Special,"",88074.0
+REGION IV-A,Batangas,Tingloy,0.0,5th,16870.0,3307.0
+REGION I,Pangasinan,Burgos,0.0,4th,18315.0,13132.0
+REGION VIII,Eastern Samar,General Macarthur,0.0,5th,12214.0,11729.0
+REGION V,Camarines Norte,Santa Elena,0.0,3rd,40828.0,19935.0
+REGION IV-A,Laguna,Liliw,0.0,4th,33851.0,3910.0
+REGION IV-B,Palawan,San Vicente,0.0,1st,30919.0,146294.0
+REGION III,Tarlac,Paniqui,0.0,1st,87730.0,10516.0
+REGION VIII,Eastern Samar,Salcedo,0.0,5th,19970.0,11380.0
+REGION VI,Antique,Caluya,0.0,1st,30046.0,13213.0
+REGION IX,Zamboanga del Norte,Siocon,0.0,1st,41637.0,50320.0
+REGION III,Pampanga,Macabebe,0.0,1st,70777.0,10516.0
+NIR,Negros Oriental,Jimalalud,0.0,4th,29044.0,13950.0
+REGION III,Aurora,Dilasag,0.0,3rd,15683.0,30625.0
+ARMM,Basilan,Lantawan,0.0,3rd,20087.0,40504.0
+REGION VII,Bohol,Sierra Bullones,0.0,3rd,24698.0,19887.0
+REGION VIII,Northern Samar,Silvino Lobos,0.0,4th,14303.0,22420.0
+REGION VI,Capiz,Jamindan,0.0,2nd,35002.0,41203.0
+REGION IV-B,Palawan,Busuanga,0.0,3rd,21358.0,39290.0
+REGION XII,North Cotabato,Carmen,0.0,1st,82469.0,111043.0
+REGION V,Sorsogon,Castilla,0.0,3rd,52903.0,18620.0
+REGION X,Misamis Oriental,Talisayan,0.0,4th,23289.0,14033.0
+CAR,Benguet,Bokod,0.0,4th,12648.0,27496.0
+REGION VII,Cebu,Tabuelan,0.0,4th,22292.0,14113.0
+ARMM,Maguindanao,Matanog,0.0,4th,23269.0,14650.0
+REGION III,Zambales,San Antonio,0.0,2nd,34217.0,18812.0
+REGION VIII,Northern Samar,Lavezares,0.0,4th,27464.0,11950.0
+NCR,Metropolitan Manila,Malabon,1.0,1st Class-Special,"",1571.0
+CAR,Abra,La Paz,0.0,5th,14882.0,5141.0
+REGION X,Misamis Occidental,Plaridel,0.0,3rd,35251.0,8000.0
+REGION VI,Antique,Sebaste,0.0,4th,17270.0,11164.0
+CAR,Ifugao,Tinoc,0.0,4th,14147.0,23970.0
+REGION VII,Cebu,San Remigio,0.0,3rd,51394.0,9527.0
+NCR,Metropolitan Manila,Parañaque,1.0,1st Class-Special,"",4657.0
+REGION II,Isabela,Tumauini,0.0,1st,58463.0,46730.0
+REGION IV-A,Laguna,Victoria,0.0,4th,34604.0,2235.0
+REGION VI,Guimaras,Nueva Valencia,0.0,3rd,37852.0,13712.0
+REGION VIII,Leyte,Hilongos,0.0,2nd,56803.0,19292.0
+REGION III,Bulacan,Doña Remedios Trinidad,0.0,1st,19878.0,93296.0
+NIR,Negros Occidental,Bago City,1.0,2nd Class ,"",40120.0
+REGION XIII,Dinagat Islands,Tubajon,0.0,5th,7568.0,9000.0
+NIR,Negros Oriental,Guihulngan City,1.0,5th Class ,"",38856.0
+REGION VI,Iloilo,Tubungan,0.0,4th,21540.0,8518.0
+CAR,Kalinga,Tabuk City,1.0,5th Class ,"",70025.0
+REGION VIII,Northern Samar,Lope de Vega,0.0,4th,13542.0,28000.0
+REGION IV-A,Cavite,Imus,1.0,- ,"",17166.0
+REGION IV-A,Quezon,General Luna,0.0,4th,25373.0,10102.0
+REGION I,Ilocos Norte,Burgos,0.0,5th,9687.0,12890.0
+CAR,Mountain Province,Tadian,0.0,4th,20689.0,14520.0
+REGION II,Cagayan,Solana,0.0,1st,76596.0,23460.0
+REGION VIII,Leyte,Mahaplag,0.0,4th,26599.0,10479.0
+REGION I,Pangasinan,Mabini,0.0,3rd,24011.0,29101.0
+REGION VIII,Samar,Motiong,0.0,4th,14829.0,17440.0
+REGION I,Pangasinan,Rosales,0.0,1st,59687.0,6639.0
+REGION V,Camarines Norte,Mercedes,0.0,2nd,47674.0,17369.0
+CAR,Benguet,Bakun,0.0,3rd,13587.0,28691.0
+OAV,EUROPE,ITALY,-1.0,"","",""
+ARMM,Tawi-Tawi,Turtle Islands,0.0,5th,3772.0,6250.0
+CAR,Mountain Province,Bauko,0.0,4th,30172.0,15300.0
+REGION IV-B,Palawan,Brooke's Point,0.0,1st,61301.0,130340.0
+REGION XII,Sultan Kudarat,Bagumbayan,0.0,1st,63700.0,67206.0
+REGION VI,Capiz,Panitan,0.0,3rd,37895.0,8988.0
+REGION II,Isabela,Divilacan,0.0,2nd,5034.0,88949.0
+REGION IV-B,Occidental Mindoro,Paluan,0.0,3rd,15223.0,56450.0
+REGION VII,Bohol,Corella,0.0,5th,7699.0,3722.0
+REGION V,Masbate,San Fernando,0.0,5th,21309.0,7750.0
+REGION XI,Davao del Norte,San Isidro,0.0,5th,25548.0,15249.0
+REGION XIII,Surigao del Norte,Del Carmen,0.0,5th,17136.0,15168.0
+REGION IV-A,Laguna,San Pablo City,1.0,1st Class-Special,"",19756.0
+REGION IV-A,Quezon,Macalelon,0.0,4th,26419.0,12405.0
+REGION X,Misamis Occidental,Panaon,0.0,5th,10176.0,4680.0
+REGION XIII,Surigao del Sur,Lianga,0.0,4th,28905.0,16112.0
+REGION II,Batanes,Mahatao,0.0,6th,1583.0,1290.0
+CAR,Mountain Province,Sagada,0.0,5th,11244.0,8332.0
+ARMM,Maguindanao,Rajah Buayan,0.0,-,17423.0,7198.0
+REGION V,Masbate,Batuan,0.0,5th,13764.0,5628.0
+REGION III,Tarlac,San Clemente,0.0,5th,12510.0,4973.0
+REGION I,Pangasinan,Umingan,0.0,1st,67534.0,25843.0
+REGION VII,Cebu,Carcar,1.0,5th Class ,"",11678.0
+REGION IV-A,Batangas,Balete,0.0,5th,20214.0,2500.0
+REGION XII,South Cotabato,Koronadal City,1.0,3rd Class ,"",27700.0
+REGION IX,Zamboanga Sibugay,Mabuhay,0.0,4th,33093.0,8285.0
+REGION I,Pangasinan,Infanta,0.0,3rd,23455.0,25429.0
+REGION VII,Cebu,San Fernando,0.0,2nd,60970.0,6939.0
+REGION III,Pampanga,Bacolor,0.0,3rd,31508.0,7170.0
+CAR,Abra,Tayum,0.0,5th,13940.0,6114.0
+REGION III,Bataan,Morong,0.0,3rd,26171.0,21920.0
+REGION VIII,Eastern Samar,Quinapondan,0.0,5th,13841.0,8324.0
+ARMM,Sulu,Old Panamao,0.0,4th,37933.0,10757.0
+NIR,Negros Oriental,Zamboanguita,0.0,4th,24996.0,8586.0
+REGION IX,Zamboanga del Norte,Tampilisan,0.0,4th,23056.0,13775.0
+REGION VII,Bohol,Loboc,0.0,4th,16312.0,5765.0
+NIR,Negros Occidental,Escalante City,1.0,4th Class ,"",19276.0
+REGION VII,Cebu,Minglanilla,0.0,1st,113178.0,6560.0
+REGION IV-A,Batangas,Nasugbu,0.0,1st,122483.0,27851.0
+REGION I,Ilocos Norte,Carasi,0.0,5th,1473.0,8297.0
+REGION VIII,Samar,Santa Rita,0.0,3rd,38082.0,41177.0
+REGION VIII,Northern Samar,Pambujan,0.0,4th,31057.0,16390.0
+REGION VIII,Southern Leyte,Silago,0.0,4th,12310.0,21505.0
+REGION V,Camarines Sur,Pasacao,0.0,3rd,45946.0,14954.0
+NIR,Negros Occidental,Manapla,0.0,2nd,52687.0,11286.0
+REGION IV-A,Quezon,Lopez,0.0,1st,91074.0,35538.0
+REGION I,Ilocos Sur,Santa Lucia,0.0,3rd,24981.0,4972.0
+NCR,Metropolitan Manila,Pasay City,1.0,1st Class-Special,"",1397.0
+REGION I,Pangasinan,San Jacinto,0.0,3rd,37737.0,4418.0
+REGION XI,Compostela Valley,Compostela,0.0,1st,81934.0,28700.0
+REGION IV-A,Laguna,Los Baños,0.0,1st,101884.0,5422.0
+ARMM,Maguindanao,Shariff Aguak,0.0,3rd,34376.0,39270.0
+REGION IV-A,Batangas,San Luis,0.0,4th,30701.0,4256.0
+ARMM,Sulu,Pata,0.0,5th,14918.0,11699.0
+REGION IX,Zamboanga del Sur,Zamboanga City,1.0,1st Class-Special,"",141470.0
+REGION III,Nueva Ecija,Cuyapo,0.0,1st,59396.0,21573.0
+REGION IX,Zamboanga del Sur,Dumingag,0.0,2nd,46500.0,29775.0
+REGION VI,Capiz,Ivisan,0.0,4th,26763.0,5420.0
+REGION III,Bataan,Orion,0.0,2nd,51454.0,6541.0
+REGION I,Ilocos Sur,Burgos,0.0,4th,11679.0,4438.0
+NCR,Metropolitan Manila,Pasig City,1.0,1st Class-Special,"",4846.0
+ARMM,Basilan,Hadji Mohammad Ajul,0.0,-,12249.0,12249.0
+REGION I,Ilocos Sur,Santo Domingo,0.0,3rd,27596.0,5549.0
+NIR,Negros Occidental,La Carlota City,1.0,4th Class ,"",13729.0
+REGION III,Pampanga,Santa Rita,0.0,4th,38762.0,2976.0
+REGION V,Camarines Sur,Tigaon,0.0,3rd,48611.0,7235.0
+REGION III,Tarlac,Mayantoc,0.0,3rd,29987.0,31142.0
+REGION X,Lanao del Norte,Lala,0.0,1st,65355.0,14025.0
+REGION IX,Zamboanga del Sur,Labangan,0.0,3rd,39168.0,15790.0
+REGION XI,Compostela Valley,Montevista,0.0,3rd,39602.0,22500.0
+REGION V,Albay,Pio Duran,0.0,3rd,45028.0,13370.0
+REGION VIII,Leyte,Tacloban City,1.0,1st Class-Special,"",20172.0
+REGION VII,Bohol,Panglao,0.0,4th,28603.0,4779.0
+NIR,Negros Oriental,Valencia,0.0,1st,31477.0,14749.0
+REGION V,Catanduanes,Baras,0.0,5th,12243.0,10950.0
+REGION IV-B,Romblon,Concepcion,0.0,6th,4445.0,1982.0
+REGION IV-B,Marinduque,Boac,0.0,1st,52892.0,21270.0
+REGION X,Lanao del Norte,Tubod,0.0,2nd,46332.0,24680.0
+REGION I,Ilocos Norte,Bangui,0.0,4th,15025.0,11298.0
+CAR,Ifugao,Lamut,0.0,4th,23088.0,15965.0
+REGION IX,Zamboanga Sibugay,Malangas,0.0,3rd,31243.0,23553.0
+REGION X,Lanao del Norte,Nunungan,0.0,3rd,16304.0,47328.0
+REGION IV-B,Occidental Mindoro,Lubang,0.0,4th,23068.0,11310.0
+REGION V,Albay,Bacacay,0.0,2nd,65724.0,12213.0
+REGION XI,Compostela Valley,Laak,0.0,1st,70856.0,76800.0
+REGION II,Isabela,San Pablo,0.0,2nd,22040.0,63790.0
+REGION III,Nueva Ecija,San Antonio,0.0,1st,73074.0,15356.0
+REGION VI,Capiz,Dumalag,0.0,4th,29298.0,10918.0
+REGION XI,Davao del Sur,Jose Abad Santos,0.0,1st,69631.0,60006.0
+REGION VII,Bohol,Lila,0.0,5th,11985.0,4050.0
+ARMM,Maguindanao,Datu Piang,0.0,2nd,28492.0,30297.0
+CAR,Abra,Lagayan,0.0,5th,4477.0,21597.0
+ARMM,Lanao del Sur,Lumbayanague,0.0,4th,14308.0,30218.0
+REGION V,Albay,Camalig,0.0,1st,63585.0,13090.0
+OAV,MIDDLE EAST AND AFRICAS,REPUBLIC OF LEBANON,-1.0,"","",""
+REGION I,Ilocos Norte,Sarrat,0.0,4th,24770.0,5739.0
+REGION VI,Antique,Hamtic,0.0,3rd,45983.0,11303.0
+REGION VI,Aklan,Balete,0.0,4th,27197.0,11893.0
+REGION XIII,Agusan del Norte,Las Nieves,0.0,2nd,26856.0,58269.0
+REGION I,Ilocos Sur,San Esteban,0.0,5th,8072.0,1962.0
+REGION VII,Bohol,Albuquerque,0.0,5th,9921.0,2698.0
+REGION III,Bulacan,Marilao,0.0,1st,185624.0,3374.0
+REGION V,Camarines Sur,Canaman,0.0,4th,32390.0,4327.0
+REGION I,La Union,Luna,0.0,3rd,35380.0,4290.0
+REGION II,Isabela,Echague,0.0,1st,74680.0,68080.0
+REGION II,Cagayan,Tuao,0.0,1st,57620.0,21550.0
+REGION X,Bukidnon,Quezon,0.0,1st,94584.0,62686.0
+CAR,Abra,Bucloc,0.0,6th,2176.0,6377.0
+REGION IV-A,Quezon,Mulanay,0.0,1st,50826.0,42000.0
+REGION IV-A,Quezon,Alabat,0.0,5th,16120.0,5761.0
+REGION III,Nueva Ecija,San Leonardo,0.0,1st,58120.0,15190.0
+REGION VIII,Samar,Santo Nino,0.0,5th,13504.0,2953.0
+REGION VIII,Leyte,Ormoc City,1.0,1st Class-Special,"",61360.0
+REGION III,Bataan,Balanga City,1.0,4th Class ,"",11163.0
+REGION II,Nueva Vizcaya,Ambaguio,0.0,5th,13452.0,15626.0
+REGION V,Camarines Sur,Goa,0.0,2nd,58503.0,20618.0
+REGION VIII,Leyte,Santa Fe,0.0,5th,17427.0,5397.0
+CAR,Abra,Langiden,0.0,5th,3170.0,11629.0
+REGION XII,North Cotabato,Aleosan,0.0,3rd,35746.0,22544.0
+REGION VIII,Biliran,Cabucgayan,0.0,5th,19621.0,5419.0
+REGION VIII,Leyte,Jaro,0.0,3rd,39577.0,20719.0
+REGION III,Zambales,Masinloc,0.0,1st,44342.0,33150.0
+REGION II,Isabela,Santa Maria,0.0,4th,22939.0,14000.0
+REGION II,Quirino,Maddela,0.0,1st,35634.0,91857.0
+REGION I,Ilocos Norte,Nueva Era,0.0,3rd,7837.0,51502.0
+REGION IX,Zamboanga del Sur,Tambulig,0.0,4th,34883.0,13065.0
+REGION III,Zambales,Santa Cruz,0.0,1st,53867.0,43846.0
+NIR,Negros Occidental,Calatrava,0.0,1st,79009.0,50450.0
+NIR,Negros Oriental,Manjuyod,0.0,2nd,41107.0,26460.0
+REGION III,Bulacan,Angat,0.0,1st,55332.0,7400.0
+REGION X,Camiguin,Mahinog,0.0,5th,13531.0,3255.0
+REGION VII,Cebu,Toledo City,1.0,3rd Class ,"",21628.0
+REGION X,Bukidnon,Valencia City,1.0,2nd Class ,"",58729.0
+NIR,Negros Oriental,La Libertad,0.0,3rd,38904.0,13960.0
+REGION I,Pangasinan,Calasiao,0.0,1st,91109.0,4836.0
+CAR,Abra,San Isidro,0.0,5th,4888.0,4807.0
+REGION XI,Davao del Sur,Hagonoy,0.0,3rd,49107.0,11428.0
+REGION X,Bukidnon,Malitbog,0.0,2nd,22880.0,58185.0
+REGION III,Nueva Ecija,Santo Domingo,0.0,3rd,50983.0,7488.0
+REGION III,Zambales,San Narciso,0.0,4th,26966.0,7160.0
+REGION II,Nueva Vizcaya,Quezon,0.0,4th,19385.0,18750.0
+OAV,ASIA,PEOPLES REPUBLIC OF CHINA,-1.0,"","",""
+ARMM,Lanao del Sur,Marawi City,1.0,4th Class ,"",8755.0
+REGION VII,Bohol,San Miguel,0.0,4th,23574.0,12329.0
+CAR,Abra,Luba,0.0,5th,6391.0,14827.0
+REGION V,Masbate,San Jacinto,0.0,4th,27974.0,12240.0
+REGION X,Lanao del Norte,Sapad,0.0,5th,19479.0,14003.0
+REGION X,Misamis Oriental,Medina,0.0,4th,31154.0,14829.0
+REGION XI,Davao Oriental,Manay,0.0,2nd,40577.0,41836.0
+REGION VI,Antique,Tobias Fornier,0.0,4th,30669.0,11212.0
+REGION V,Camarines Sur,Bato,0.0,3rd,48306.0,10712.0
+REGION I,Pangasinan,Mangatarem,0.0,1st,69969.0,31750.0
+REGION III,Bataan,Pilar,0.0,3rd,39787.0,3760.0
+REGION XII,North Cotabato,Kidapawan City,1.0,3rd Class ,"",35847.0
+REGION VI,Capiz,Roxas City,1.0,3rd Class ,"",9507.0
+ARMM,Basilan,Sumisip,0.0,1st,37031.0,56760.0
+REGION V,Camarines Sur,Magarao,0.0,4th,24274.0,4497.0
+REGION XIII,Dinagat Islands,Basilisa,0.0,4th,33880.0,9268.0
+REGION III,Nueva Ecija,Palayan City,1.0,5th Class ,"",10140.0
+REGION XIII,Surigao del Norte,Dapa,0.0,4th,23492.0,9190.0
+REGION VII,Bohol,Danao,0.0,4th,17952.0,16276.0
+REGION IV-A,Batangas,Agoncillo,0.0,4th,35794.0,4996.0
+REGION IV-A,Quezon,Sampaloc,0.0,5th,13107.0,10478.0
+REGION IV-B,Marinduque,Santa Cruz,0.0,1st,55673.0,27077.0
+REGION II,Cagayan,Iguig,0.0,4th,25559.0,10810.0
+REGION XI,Davao del Sur,Malita,0.0,1st,109568.0,88337.0
+NIR,Negros Occidental,San Carlos City,1.0,2nd Class ,"",45150.0
+REGION IV-A,Batangas,Cuenca,0.0,4th,31236.0,5818.0
+REGION III,Bulacan,Santa Maria,0.0,1st,218351.0,9092.0
+REGION V,Masbate,Placer,0.0,2nd,55438.0,19303.0
+REGION IV-A,Laguna,Santa Maria,0.0,4th,26839.0,10840.0
+REGION IV-A,Quezon,Infanta,0.0,1st,64818.0,34276.0
+REGION VIII,Northern Samar,San Isidro,0.0,4th,24952.0,25590.0
+REGION VII,Bohol,Tubigon,0.0,1st,44902.0,8187.0
+ARMM,Maguindanao,Shariff Aguak,0.0,-,16442.0,16442.0
+REGION IX,Zamboanga del Sur,Aurora,0.0,2nd,48434.0,18095.0
+REGION VI,Antique,Belison,0.0,5th,12807.0,1978.0
+REGION V,Camarines Sur,Gainza,0.0,5th,10345.0,1475.0
+CAR,Mountain Province,Paracelis,0.0,2nd,26476.0,57016.0
+REGION IV-B,Romblon,Cajidiocan,0.0,4th,21198.0,20185.0
+REGION IV-B,Marinduque,Mogpog,0.0,3rd,33384.0,10806.0
+REGION V,Masbate,Claveria,0.0,3rd,41572.0,18298.0
+REGION I,Ilocos Norte,Pagudpud,0.0,4th,21877.0,19490.0
+REGION IV-A,Batangas,Calatagan,0.0,2nd,51997.0,11200.0
+REGION XIII,Agusan del Sur,Sibagat,0.0,1st,30985.0,56782.0
+REGION I,Ilocos Sur,Salcedo,0.0,4th,10935.0,10344.0
+ARMM,Basilan,Tipo-Tipo,0.0,3rd,16978.0,21700.0
+REGION IX,Zamboanga del Norte,Salug,0.0,3rd,31157.0,20660.0
+REGION II,Isabela,Luna,0.0,5th,18091.0,4570.0
+REGION VIII,Northern Samar,Capul,0.0,5th,12659.0,3556.0
+CAR,Abra,Pilar,0.0,5th,9908.0,6610.0
+NIR,Negros Oriental,Bindoy,0.0,3rd,39416.0,17370.0
+REGION X,Lanao del Norte,Kapatagan,0.0,2nd,53916.0,24289.0
+REGION III,Bulacan,Obando,0.0,2nd,58009.0,5210.0
+REGION IV-A,Quezon,Padre Burgos,0.0,4th,20161.0,6910.0
+REGION VI,Iloilo,New Lucena,0.0,4th,22174.0,4410.0
+REGION XIII,Surigao del Sur,Carrascal,0.0,4th,16529.0,26580.0
+REGION VII,Cebu,Balamban,0.0,1st,71237.0,33356.0
+REGION I,Ilocos Sur,Cabugao,0.0,1st,35706.0,9556.0
+REGION IV-B,Oriental Mindoro,San Teodoro,0.0,4th,15810.0,34100.0
+REGION IV-A,Batangas,Calaca,0.0,1st,70521.0,11458.0
+REGION III,Nueva Ecija,Gapan City,1.0,4th Class ,"",16444.0
+REGION IV-B,Romblon,Alcantara,0.0,5th,15428.0,6012.0
+REGION XII,Sultan Kudarat,Isulan,0.0,1st,86602.0,54125.0
+REGION II,Isabela,Jones,0.0,1st,44218.0,67014.0
+ARMM,Basilan,Tuburan,0.0,2nd,18988.0,54600.0
+REGION IX,Zamboanga del Norte,Jose Dalman,0.0,5th,27033.0,13500.0
+REGION IV-A,Quezon,Gumaca,0.0,1st,69618.0,18965.0
+REGION VIII,Samar,Talalora,0.0,6th,7983.0,2796.0
+REGION VII,Bohol,Dagohoy,0.0,5th,18868.0,7759.0
+REGION IX,Zamboanga Sibugay,Diplahan,0.0,3rd,31215.0,25551.0
+REGION X,Camiguin,Guinsiliban,0.0,6th,5580.0,1852.0
+REGION IX,Zamboanga del Sur,San Miguel,0.0,4th,18258.0,18159.0
+REGION IV-A,Quezon,Jomalig,0.0,5th,6884.0,5665.0
+REGION IV-A,Laguna,Bay,0.0,2nd,55698.0,4266.0
+REGION III,Aurora,Dingalan,0.0,3rd,23554.0,30455.0
+REGION IV-A,Quezon,Mauban,0.0,1st,61141.0,41598.0
+REGION IV-B,Palawan,Rizal,0.0,1st,42759.0,125647.0
+REGION VI,Aklan,Malay,0.0,1st,45811.0,6601.0
+REGION VIII,Leyte,Calubian,0.0,4th,29619.0,10095.0
+REGION IV-A,Quezon,Dolores,0.0,4th,27702.0,6260.0
+REGION VII,Bohol,Maribojoc,0.0,4th,20491.0,4935.0
+REGION X,Bukidnon,Don Carlos,0.0,1st,64334.0,21372.0
+REGION XI,Davao del Norte,Carmen,0.0,1st,69199.0,16600.0
+ARMM,Lanao del Sur,Piagapo,0.0,4th,21974.0,34007.0
+REGION X,Lanao del Norte,Linamon,0.0,5th,17484.0,7638.0
+REGION IV-A,Rizal,Teresa,0.0,2nd,47163.0,1861.0
+CAR,Ifugao,Kiangan,0.0,4th,15837.0,20000.0
+REGION I,Pangasinan,Laoac,0.0,4th,29456.0,4050.0
+REGION III,Bataan,Abucay,0.0,3rd,37719.0,7972.0
+ARMM,Maguindanao,Mamasapano,0.0,5th,22354.0,8531.0
+REGION III,Tarlac,Moncada,0.0,1st,56183.0,8575.0
+REGION XII,Sultan Kudarat,President Quirino,0.0,3rd,38753.0,20840.0
+CAR,Kalinga,Pasil,0.0,5th,9626.0,18900.0
+REGION II,Cagayan,Piat,0.0,4th,22961.0,13960.0
+ARMM,Maguindanao,Buldon,0.0,4th,33729.0,42940.0
+REGION III,Tarlac,Concepcion,0.0,1st,139832.0,24299.0
+CAR,Ifugao,Banaue,0.0,4th,22365.0,19120.0
+ARMM,Lanao del Sur,Masiu,0.0,5th,25181.0,17000.0
+REGION XII,North Cotabato,Alamada,0.0,1st,56813.0,78750.0
+ARMM,Lanao del Sur,Marogong,0.0,4th,18541.0,36500.0
+REGION IV-B,Romblon,Ferrol,0.0,6th,6802.0,2672.0
+REGION IV-B,Romblon,San Jose,0.0,5th,10294.0,2205.0
+REGION VI,Iloilo,San Dionisio,0.0,4th,33650.0,12706.0
+REGION VIII,Samar,Zumarraga,0.0,5th,16936.0,3855.0
+REGION VI,Iloilo,Janiuay,0.0,1st,63031.0,17910.0
+REGION X,Misamis Oriental,Cagayan de Oro City,1.0,1st Class-Special,"",41280.0
+NIR,Negros Occidental,Enrique B. Magalona,0.0,2nd,59434.0,11325.0
+NIR,Negros Oriental,Mabinay,0.0,1st,74187.0,31944.0
+REGION VII,Cebu,Santa Fe,0.0,4th,27270.0,2805.0
+REGION II,Cagayan,Calayan,0.0,3rd,16200.0,49453.0
+REGION II,Cagayan,Gattaran,0.0,1st,54848.0,70750.0
+REGION IV-B,Palawan,Quezon,0.0,1st,55142.0,94319.0
+REGION X,Misamis Occidental,Calamba,0.0,4th,21005.0,10464.0
+REGION IX,Zamboanga del Norte,Polanco,0.0,3rd,37472.0,20688.0
+REGION IX,Zamboanga del Sur,Bayog,0.0,3rd,30048.0,35640.0
+ARMM,Lanao del Sur,Binidayan,0.0,4th,19493.0,28000.0
+REGION V,Sorsogon,Casiguran,0.0,4th,30995.0,8713.0
+REGION IV-B,Romblon,Santa Fe,0.0,5th,15700.0,6352.0
+REGION VI,Antique,Bugasong,0.0,3rd,32264.0,20371.0
+OAV,MIDDLE EAST AND AFRICAS,UNITED ARAB EMIRATES,-1.0,"","",""
+REGION V,Sorsogon,Juban,0.0,4th,30335.0,12149.0
+REGION I,Ilocos Norte,Vintar,0.0,1st,31448.0,61435.0
+REGION I,Ilocos Sur,Santa Maria,0.0,3rd,28597.0,6331.0
+NIR,Negros Oriental,Bayawan City,1.0,2nd Class ,"",69908.0
+REGION VII,Siquijor,Maria,0.0,5th,13383.0,5337.0
+REGION XIII,Agusan del Norte,Santiago,0.0,4th,20955.0,27561.0
+NIR,Negros Oriental,Siaton,0.0,1st,73285.0,33590.0
+REGION IV-A,Batangas,Bauan,0.0,1st,81351.0,5331.0
+REGION IV-A,Quezon,San Andres,0.0,4th,33586.0,6099.0
+REGION VII,Cebu,Daanbantayan,0.0,1st,74897.0,9227.0
+ARMM,Lanao del Sur,Malabang,0.0,3rd,38724.0,19810.0
+REGION VI,Iloilo,Batad,0.0,5th,19385.0,5310.0
+REGION I,La Union,Agoo,0.0,1st,60596.0,5284.0
+ARMM,Maguindanao,Upi,0.0,1st,45444.0,74295.0
+NIR,Negros Occidental,Murcia,0.0,1st,75207.0,27914.0
+REGION XIII,Agusan del Norte,Cabadbaran City,1.0,6th Class ,"",21444.0
+REGION IX,Zamboanga del Norte,Siayan,0.0,2nd,34989.0,49475.0
+REGION V,Masbate,Uson,0.0,3rd,53602.0,16320.0
+REGION II,Cagayan,Claveria,0.0,3rd,30482.0,19480.0
+ARMM,Maguindanao,Buluan,0.0,4th,38106.0,69950.0
+REGION XI,Davao del Sur,Santa Maria,0.0,2nd,49349.0,17500.0
+REGION I,La Union,Santo Tomas,0.0,4th,35999.0,6400.0
+REGION IV-A,Batangas,San Jose,0.0,1st,68517.0,5329.0
+REGION III,Tarlac,Bamban,0.0,2nd,62413.0,25198.0
+REGION VI,Antique,Anini-Y,0.0,4th,20349.0,6617.0
+REGION XIII,Agusan del Sur,Bunawan,0.0,1st,37482.0,51216.0
+REGION X,Misamis Oriental,Initao,0.0,3rd,29331.0,11127.0
+NCR,Metropolitan Manila,Quezon City,1.0,1st Class-Special,"",17171.0
+REGION V,Camarines Norte,San Lorenzo Ruiz,0.0,5th,12592.0,11937.0
+REGION XII,Sultan Kudarat,Tacurong City,1.0,4th Class ,"",15340.0
+REGION VI,Antique,Sibalom,0.0,2nd,56058.0,20130.0
+REGION VI,Iloilo,Pototan,0.0,1st,70955.0,9710.0
+REGION I,Ilocos Norte,Batac City,1.0,5th Class ,"",16106.0
+REGION III,Nueva Ecija,Aliaga,0.0,2nd,57805.0,9004.0
+REGION I,La Union,Aringay,0.0,2nd,44949.0,8454.0
+REGION IX,Zamboanga del Norte,Rizal,0.0,5th,14111.0,8003.0
+REGION IV-A,Quezon,Tiaong,0.0,1st,91599.0,16838.0
+ARMM,Sulu,Panglima Estino,0.0,5th,27724.0,12510.0
+REGION I,La Union,San Gabriel,0.0,4th,16628.0,12987.0
+REGION XIII,Surigao del Norte,Mainit,0.0,4th,25596.0,10776.0
+REGION IV-A,Laguna,Majayjay,0.0,4th,26547.0,6958.0
+REGION VIII,Northern Samar,San Vicente,0.0,6th,7447.0,1580.0
+NIR,Negros Occidental,Sipalay City,1.0,4th Class ,"",37978.0
+REGION VIII,Eastern Samar,Balangkayan,0.0,5th,9046.0,20705.0
+REGION II,Cagayan,Aparri,0.0,1st,61199.0,28664.0
+REGION IV-B,Oriental Mindoro,Socorro,0.0,3rd,38348.0,15138.0
+REGION VI,Iloilo,Barotac Nuevo,0.0,2nd,51867.0,9449.0
+REGION V,Camarines Sur,Pili,0.0,1st,82307.0,12625.0
+REGION VIII,Southern Leyte,Hinunangan,0.0,3rd,28415.0,17058.0
+CAR,Benguet,Buguias,0.0,3rd,39271.0,17588.0
+REGION X,Misamis Oriental,Salay,0.0,4th,27591.0,9279.0
+REGION IX,Zamboanga del Norte,Pinan,0.0,4th,20088.0,9375.0
+CAR,Abra,San Juan,0.0,5th,10546.0,6408.0
+REGION VIII,Samar,Jiabong,0.0,5th,17075.0,6770.0
+REGION I,Pangasinan,Bolinao,0.0,1st,74545.0,19722.0
+REGION VI,Iloilo,Pavia,0.0,2nd,43614.0,2715.0
+REGION XII,North Cotabato,Pigkawayan,0.0,1st,59975.0,34011.0
+NIR,Negros Occidental,Victorias City,1.0,4th Class ,"",13392.0
+REGION II,Isabela,San Isidro,0.0,5th,22758.0,7190.0
+REGION XI,Davao del Norte,Talaingod,0.0,2nd,25566.0,65683.0
+REGION X,Misamis Oriental,Claveria,0.0,1st,44544.0,57963.0
+ARMM,Basilan,Hadji Mohammad Ajul,0.0,-,15962.0,20250.0
+REGION XIII,Agusan del Norte,Carmen,0.0,4th,19781.0,31102.0
+REGION X,Misamis Oriental,Gitagum,0.0,5th,16098.0,4340.0
+REGION IV-A,Cavite,Tanza,0.0,1st,188755.0,9559.0
+REGION VII,Cebu,Ronda,0.0,5th,18582.0,5710.0
+REGION V,Camarines Sur,Ragay,0.0,1st,54934.0,40022.0
+REGION X,Misamis Occidental,Sinacaban,0.0,5th,18597.0,9909.0
+REGION XII,North Cotabato,Pikit,0.0,1st,113014.0,60461.0
+CAR,Ifugao,Mayoyao,0.0,4th,16413.0,23805.0
+REGION V,Catanduanes,Caramoran,0.0,3rd,28063.0,26374.0
+REGION I,Pangasinan,Asingan,0.0,2nd,56353.0,6664.0
+REGION IX,Zamboanga Sibugay,Imelda,0.0,4th,27903.0,8512.0
+REGION VIII,Leyte,Carigara,0.0,2nd,47444.0,11786.0
+REGION III,Pampanga,Apalit,0.0,1st,101537.0,6147.0
+CAR,Abra,Dolores,0.0,5th,11499.0,4745.0
+REGION I,La Union,Santol,0.0,4th,12007.0,9370.0
+REGION VII,Bohol,Sikatuna,0.0,5th,6380.0,3822.0
+REGION IV-A,Laguna,Calamba City,1.0,1st Class-Special,"",14950.0
+REGION VII,Cebu,Alcantara,0.0,5th,13556.0,3520.0
+REGION II,Isabela,Mallig,0.0,4th,28345.0,13340.0
+REGION XIII,Surigao del Norte,Socorro,0.0,4th,20304.0,11445.0
+REGION IV-A,Quezon,Burdeos,0.0,4th,24166.0,19982.0
+REGION V,Catanduanes,Bagamanoc,0.0,5th,11370.0,8074.0
+REGION VIII,Samar,Calbiga,0.0,4th,21434.0,28370.0
+REGION III,Zambales,San Felipe,0.0,4th,22020.0,11160.0
+REGION IV-A,Cavite,Indang,0.0,1st,62030.0,7490.0
+REGION V,Camarines Sur,San Jose,0.0,4th,38523.0,4307.0
+REGION III,Nueva Ecija,Pantabangan,0.0,1st,27353.0,39256.0
+REGION II,Batanes,Ivana,0.0,6th,1249.0,1654.0
+REGION II,Nueva Vizcaya,Dupax Del Sur,0.0,2nd,18146.0,37470.0
+REGION I,Ilocos Norte,Marcos,0.0,4th,16984.0,7277.0
+REGION XII,North Cotabato,M'Lang,0.0,1st,87749.0,31213.0
+REGION VIII,Northern Samar,Catarman,0.0,1st,84833.0,46443.0
+REGION X,Lanao del Norte,Maigo,0.0,4th,20131.0,12145.0
+REGION III,Zambales,Candelaria,0.0,3rd,25020.0,33359.0
+REGION IV-A,Batangas,Ibaan,0.0,2nd,48482.0,6899.0
+REGION V,Masbate,Baleno,0.0,4th,24401.0,20438.0
+REGION I,Pangasinan,Urdaneta City,1.0,2nd Class ,"",10026.0
+REGION I,Ilocos Norte,San Nicolas,0.0,2nd,34237.0,4018.0
+REGION X,Bukidnon,Manolo Fortich,0.0,1st,91026.0,41360.0
+REGION III,Pampanga,Santa Ana,0.0,3rd,52001.0,3984.0
+REGION VIII,Northern Samar,Allen,0.0,5th,23738.0,4760.0
+REGION IV-B,Oriental Mindoro,Calapan City,1.0,3rd Class ,"",25006.0
+REGION XII,Sultan Kudarat,Lutayan,0.0,2nd,56179.0,27100.0
+REGION X,Misamis Occidental,Lopez Jaena,0.0,4th,23767.0,9470.0
+REGION IV-A,Cavite,Tagaytay City,1.0,2nd Class ,"",6500.0
+REGION IV-A,Laguna,Pangil,0.0,4th,23201.0,4503.0
+REGION IV-A,Rizal,Antipolo City,1.0,1st Class-Special,"",30610.0
+REGION IX,Zamboanga Sibugay,Talusan,0.0,5th,25268.0,5816.0
+REGION VII,Cebu,Asturias,0.0,3rd,44732.0,19045.0
+REGION IV-A,Batangas,Lemery,0.0,1st,81825.0,10980.0
+REGION IX,Zamboanga Sibugay,Kabasalan,0.0,2nd,41421.0,28920.0
+REGION V,Camarines Sur,Iriga City,1.0,4th Class ,"",13735.0
+REGION V,Albay,Santo Domingo,0.0,4th,32414.0,5122.0
+REGION X,Lanao del Norte,Kauswagan,0.0,5th,24006.0,6037.0
+REGION VI,Aklan,Banga,0.0,3rd,38063.0,8453.0
+REGION VIII,Samar,Pagsanghan,0.0,5th,8024.0,3000.0
+REGION II,Nueva Vizcaya,Solano,0.0,1st,56134.0,13980.0
+REGION XI,Davao del Sur,Digos City,1.0,2nd Class ,"",28710.0
+REGION V,Masbate,Dimasalang,0.0,4th,25245.0,14807.0
+REGION VIII,Samar,Basey,0.0,1st,50423.0,51301.0
+REGION VII,Cebu,Alegria,0.0,4th,22072.0,8949.0
+REGION VII,Bohol,Jetafe,0.0,3rd,27788.0,12050.0
+REGION II,Quirino,Cabarroguis,0.0,3rd,29395.0,26020.0
+REGION IX,Zamboanga del Sur,Midsalip,0.0,4th,31467.0,16156.0
+REGION IV-A,Cavite,Rosario,0.0,1st,92253.0,3816.0
+REGION VI,Iloilo,Bingawan,0.0,5th,13432.0,8520.0
+REGION I,La Union,Bangar,0.0,3rd,34522.0,3736.0
+REGION II,Cagayan,Gonzaga,0.0,1st,36303.0,56743.0
+REGION V,Camarines Sur,Balatan,0.0,4th,28699.0,9309.0
+NIR,Negros Occidental,Cauayan,0.0,1st,96921.0,52000.0
+REGION IV-A,Batangas,Tuy,0.0,3rd,40734.0,9465.0
+REGION II,Batanes,Sabtang,0.0,6th,1637.0,4070.0
+REGION VII,Bohol,Sagbayan,0.0,4th,20091.0,6961.0
+REGION V,Camarines Sur,Lagonoy,0.0,2nd,51814.0,37790.0
+REGION VII,Cebu,Mandaue City,1.0,1st Class-Special,"",2518.0
+CAR,Abra,Manabo,0.0,5th,10756.0,11095.0
+REGION I,Pangasinan,Agno,0.0,3rd,27508.0,16975.0
+REGION VIII,Northern Samar,San Roque,0.0,4th,26323.0,15298.0
+CAR,Apayao,Calanasan,0.0,1st,11568.0,125615.0
+REGION IX,Zamboanga del Sur,Molave,0.0,1st,48939.0,25150.0
+REGION III,Tarlac,Camiling,0.0,1st,80241.0,14053.0
+REGION IV-A,Batangas,San Juan,0.0,1st,94291.0,27340.0
+REGION I,La Union,Naguilian,0.0,1st,48407.0,10460.0
+REGION VII,Cebu,Borbon,0.0,4th,31598.0,12094.0
+REGION II,Cagayan,Baggao,0.0,1st,78188.0,92060.0
+REGION XII,North Cotabato,President Roxas,0.0,1st,44229.0,61825.0
+CAR,Mountain Province,Sabangan,0.0,5th,8741.0,7204.0
+REGION I,Ilocos Sur,Santa Catalina,0.0,5th,13597.0,968.0
+REGION V,Catanduanes,Virac,0.0,1st,66951.0,15240.0
+REGION VI,Iloilo,Alimodian,0.0,3rd,37484.0,14482.0
+REGION XII,South Cotabato,Tampakan,0.0,2nd,36254.0,39000.0
+CAR,Benguet,Kabayan,0.0,4th,13588.0,24269.0
+REGION VII,Cebu,Alcoy,0.0,5th,14757.0,6163.0
+REGION VIII,Leyte,Dagami,0.0,3rd,31490.0,16165.0
+REGION II,Isabela,Ramon,0.0,2nd,49812.0,13517.0
+REGION I,La Union,Bagulin,0.0,5th,12590.0,10733.0
+REGION IV-B,Marinduque,Buenavista,0.0,4th,23111.0,8125.0
+REGION XIII,Surigao del Sur,Cantilan,0.0,2nd,30231.0,24010.0
+ARMM,Lanao del Sur,Kapai,0.0,4th,17370.0,39850.0
+NCR,Metropolitan Manila,Marikina,1.0,1st Class-Special,"",2152.0
+ARMM,Basilan,Isabela City,1.0,4th Class ,"",22373.0
+REGION VIII,Leyte,Barugo,0.0,4th,30092.0,8462.0
+REGION IX,Zamboanga del Sur,Pagadian City,1.0,2nd Class ,"",37880.0
+REGION I,Ilocos Sur,Alilem,0.0,4th,6640.0,11933.0
+REGION III,Pampanga,Mabalacat,1.0,- ,"",8318.0
+REGION III,Pampanga,Masantol,0.0,2nd,52407.0,4825.0
+REGION VIII,Eastern Samar,Giporlos,0.0,5th,12040.0,9751.0
+ARMM,Lanao del Sur,Madamba,0.0,4th,15542.0,22500.0
+REGION IV-A,Rizal,San Mateo,0.0,1st,205255.0,5509.0
+NCR,Metropolitan Manila,Valenzuela,1.0,1st Class-Special,"",4702.0
+REGION IV-B,Palawan,Puerto Princesa City,1.0,1st Class-Special,"",238102.0
+REGION III,Tarlac,Capas,0.0,1st,125852.0,37639.0
+REGION III,Nueva Ecija,Rizal,0.0,2nd,57145.0,12055.0
+REGION XIII,Surigao del Norte,Santa Monica,0.0,5th,8715.0,3919.0
+OAV,ASIA,JAPAN,-1.0,"","",""
+REGION IV-B,Occidental Mindoro,Santa Cruz,0.0,1st,34544.0,68140.0
+REGION XIII,Agusan del Sur,Rosario,0.0,2nd,38280.0,38505.0
+NIR,Negros Oriental,Vallehermoso,0.0,3rd,36943.0,10125.0
+REGION VI,Iloilo,Santa Barbara,0.0,2nd,55472.0,13196.0
+ARMM,Lanao del Sur,Saguiaran,0.0,4th,22673.0,5135.0
+REGION II,Isabela,Alicia,0.0,1st,64687.0,15410.0
+REGION IX,Zamboanga del Norte,Liloy,0.0,3rd,39015.0,12843.0
+REGION III,Bulacan,Bocaue,0.0,1st,106407.0,3187.0
+REGION V,Camarines Sur,Tinambac,0.0,1st,62435.0,35162.0
+REGION I,Pangasinan,Dasol,0.0,3rd,26991.0,16660.0
+REGION IV-B,Palawan,Roxas,0.0,1st,61058.0,117756.0
+REGION VII,Cebu,Malabuyoc,0.0,5th,18426.0,6927.0
+REGION XII,South Cotabato,Banga,0.0,1st,76343.0,24035.0
+ARMM,Tawi-Tawi,Languyan,0.0,1st,42690.0,58120.0
+REGION IV-A,Cavite,General Trias,1.0,1st Class-Special,"",8146.0
+REGION XI,Davao del Sur,Davao City,1.0,1st Class-Special,"",244361.0
+REGION VI,Iloilo,Badiangan,0.0,4th,26218.0,7750.0
+CAR,Kalinga,Pinukpuk,0.0,1st,29596.0,74356.0
+REGION IV-B,Oriental Mindoro,Puerto Galera,0.0,1st,32521.0,24785.0
+REGION VIII,Leyte,Alangalang,0.0,2nd,46411.0,15054.0
+OAV,MIDDLE EAST AND AFRICAS,KINGDOM OF SAUDI ARABIA,-1.0,"","",""
+REGION VI,Iloilo,San Miguel,0.0,4th,25013.0,3197.0
+REGION I,Ilocos Sur,Galimuyod,0.0,4th,10011.0,3440.0
+REGION VIII,Eastern Samar,Dolores,0.0,5th,37912.0,30858.0
+REGION II,Isabela,Roxas,0.0,1st,57699.0,18480.0
+REGION IV-A,Quezon,Tagkawayan,0.0,1st,50833.0,53435.0
+REGION VIII,Northern Samar,San Jose,0.0,5th,16079.0,2985.0
+REGION III,Pampanga,Floridablanca,0.0,1st,110846.0,17548.0
+REGION IV-A,Rizal,Pililla,0.0,1st,59527.0,6995.0
+REGION V,Albay,Guinobatan,0.0,1st,75967.0,24443.0
+ARMM,Sulu,Pangutaran,0.0,4th,28461.0,25810.0
+REGION VIII,Samar,Tagapul-An,0.0,5th,7828.0,2870.0
+REGION IV-A,Cavite,Mendez,0.0,4th,28570.0,4327.0
+REGION XIII,Surigao del Sur,Hinatuan,0.0,2nd,38731.0,29910.0
+REGION XII,South Cotabato,Lake Sebu,0.0,1st,76170.0,70200.0
+REGION IV-B,Occidental Mindoro,Sablayan,0.0,1st,76153.0,218880.0
+REGION XII,Sarangani,Kiamba,0.0,1st,54871.0,32868.0
+REGION I,Pangasinan,Alaminos City,1.0,4th Class ,"",16426.0
+REGION III,Bulacan,Guiguinto,0.0,1st,90507.0,2750.0
+REGION X,Misamis Occidental,Aloran,0.0,4th,26630.0,11806.0
+REGION IV-A,Cavite,Carmona,0.0,1st,74986.0,4024.0
+REGION IV-A,Batangas,Taal,0.0,3rd,51503.0,2976.0
+NIR,Negros Occidental,Isabela,0.0,2nd,59523.0,17876.0
+REGION V,Camarines Sur,Calabanga,0.0,1st,78119.0,16380.0
+REGION V,Sorsogon,Bulan,0.0,1st,93943.0,19696.0
+ARMM,Maguindanao,Parang,0.0,1st,73328.0,85078.0
+REGION VII,Bohol,Balilihan,0.0,4th,17147.0,12727.0
+REGION I,Pangasinan,Binalonan,0.0,1st,52832.0,4757.0
+NIR,Negros Oriental,Dauin,0.0,4th,25239.0,11410.0
+REGION IX,Zamboanga del Sur,Tabina,0.0,4th,24110.0,8690.0
+REGION IV-B,Oriental Mindoro,Bongabong,0.0,1st,66569.0,49820.0
+ARMM,Tawi-Tawi,Bongao,0.0,2nd,79362.0,36595.0
+REGION III,Nueva Ecija,San Jose City,1.0,3rd Class ,"",18599.0
+REGION VII,Siquijor,Siquijor,0.0,4th,25231.0,9070.0
+REGION V,Camarines Sur,Bula,0.0,2nd,68011.0,16764.0
+ARMM,Tawi-Tawi,Simunul,0.0,4th,34538.0,16725.0
+REGION V,Albay,Manito,0.0,4th,22819.0,10740.0
+REGION XII,North Cotabato,Kabacan,0.0,1st,81282.0,44809.0
+REGION I,Pangasinan,Balungao,0.0,4th,26678.0,7325.0
+REGION II,Isabela,Delfin Albano,0.0,4th,25422.0,18900.0
+REGION VII,Siquijor,San Juan,0.0,5th,13525.0,4437.0
+REGION IV-B,Oriental Mindoro,Pola,0.0,3rd,32984.0,15934.0
+REGION IV-A,Rizal,Tanay,0.0,1st,98879.0,20000.0
+REGION V,Camarines Sur,Caramoan,0.0,2nd,44945.0,27600.0
+CAR,Benguet,Kapangan,0.0,4th,20084.0,16439.0
+REGION IX,Zamboanga del Norte,Kalawit,0.0,4th,22157.0,21789.0
+REGION XI,Davao del Sur,Magsaysay,0.0,3rd,49141.0,26809.0
+REGION II,Isabela,San Manuel,0.0,4th,30407.0,11277.0
+REGION I,La Union,Rosario,0.0,1st,52679.0,7398.0
+REGION X,Bukidnon,Kibawe,0.0,2nd,35767.0,30413.0
+REGION VI,Iloilo,Tigbauan,0.0,2nd,58814.0,8368.0
+REGION XIII,Dinagat Islands,Dinagat,0.0,5th,12786.0,13994.0
+REGION VIII,Eastern Samar,Borongan City,1.0,- ,"",47500.0
+REGION I,Ilocos Norte,Bacarra,0.0,3rd,31648.0,6532.0
+NIR,Negros Occidental,Valladolid,0.0,4th,36416.0,4803.0
+ARMM,Maguindanao,Sultan Kudarat,0.0,1st,82758.0,71291.0
+REGION III,Bulacan,Calumpit,0.0,1st,101068.0,5625.0
+NCR,Metropolitan Manila,Taguig,1.0,1st Class-Special,"",4521.0
+REGION V,Masbate,Pio V. Corpuz,0.0,4th,23292.0,8933.0
+ARMM,Tawi-Tawi,South Ubian,0.0,3rd,27741.0,27204.0
+REGION IV-B,Oriental Mindoro,Baco,0.0,3rd,35060.0,21623.0
+REGION V,Sorsogon,Magallanes,0.0,3rd,35443.0,15009.0
+REGION I,Ilocos Sur,San Juan,0.0,3rd,25199.0,6437.0
+REGION VI,Iloilo,Leon,0.0,2nd,47522.0,14020.0
+REGION VIII,Samar,Hinabangan,0.0,4th,12651.0,46008.0
+REGION I,Pangasinan,Aguilar,0.0,3rd,39529.0,19507.0
+ARMM,Maguindanao,Guindulungan,0.0,-,16071.0,13068.0
+REGION XII,North Cotabato,Arakan,0.0,2nd,43554.0,69322.0
+REGION VIII,Southern Leyte,Hinundayan,0.0,5th,11890.0,5990.0
+NCR,Metropolitan Manila,Pateros,0.0,1st,64147.0,1040.0
+REGION X,Lanao del Norte,Pantar,0.0,5th,18440.0,7040.0
+REGION IV-A,Laguna,Alaminos,0.0,3rd,43526.0,5746.0
+ARMM,Lanao del Sur,Butig,0.0,6th,16642.0,33149.0
+REGION IV-B,Oriental Mindoro,Bansud,0.0,2nd,38341.0,34347.0
+REGION VI,Antique,Pandan,0.0,4th,32494.0,11398.0
+REGION VIII,Eastern Samar,Oras,0.0,4th,34760.0,18870.0
+REGION III,Nueva Ecija,Lupao,0.0,3rd,40931.0,12133.0
+REGION VII,Siquijor,Larena,0.0,5th,12931.0,4981.0
+REGION III,Nueva Ecija,Quezon,0.0,4th,36660.0,6853.0
+REGION II,Nueva Vizcaya,Kayapa,0.0,3rd,21453.0,48290.0
+REGION VI,Aklan,Ibajay,0.0,3rd,45279.0,15890.0
+CAR,Abra,Peñarrubia,0.0,6th,6544.0,3829.0
+REGION IV-B,Marinduque,Torrijos,0.0,3rd,29366.0,17892.0
+REGION VI,Aklan,New Washington,0.0,3rd,42112.0,6669.0
+REGION III,Nueva Ecija,Santa Rosa,0.0,1st,64503.0,14715.0
+OAV,EUROPE,SPAIN,-1.0,"","",""
+REGION X,Camiguin,Sagay,0.0,5th,11873.0,4413.0
+REGION IV-B,Occidental Mindoro,Rizal,0.0,3rd,34458.0,24250.0
+CAR,Abra,Danglas,0.0,5th,4734.0,15602.0
+REGION II,Cagayan,Pamplona,0.0,4th,23236.0,17330.0
+REGION X,Camiguin,Mambajao,0.0,3rd,36435.0,8900.0
+REGION VIII,Leyte,Capoocan,0.0,4th,29834.0,18540.0
+REGION II,Cagayan,Tuguegarao City,1.0,3rd Class ,"",14480.0
+REGION XIII,Surigao del Sur,Marihatag,0.0,3rd,17926.0,31250.0
+REGION VII,Cebu,Madridejos,0.0,4th,34905.0,2395.0
+ARMM,Lanao del Sur,Bubong,0.0,2nd,19455.0,79850.0
+REGION IV-B,Occidental Mindoro,Calintaan,0.0,3rd,28148.0,38250.0
+ARMM,Maguindanao,Paglat,0.0,-,11207.0,17774.0
+REGION VI,Capiz,Dao,0.0,4th,31911.0,8864.0
+REGION VIII,Leyte,Kananga,0.0,1st,48027.0,14420.0
+REGION XIII,Agusan del Norte,Nasipit,0.0,3rd,40663.0,14440.0
+REGION IX,Zamboanga del Sur,Tukuran,0.0,4th,37883.0,14491.0
+REGION II,Isabela,Aurora,0.0,3rd,33045.0,11556.0
+REGION II,Cagayan,Alcala,0.0,3rd,37773.0,18720.0
+REGION XIII,Surigao del Norte,San Benito,0.0,6th,5505.0,4563.0
+REGION VIII,Leyte,Tunga,0.0,6th,6516.0,770.0
+REGION V,Camarines Sur,Milaor,0.0,4th,28474.0,3364.0
+OAV,MIDDLE EAST AND AFRICAS,STATE OF KUWAIT,-1.0,"","",""
+NIR,Negros Occidental,Silay City,1.0,3rd Class ,"",21480.0
+REGION VIII,Eastern Samar,Llorente,0.0,3rd,19101.0,49607.0
+REGION IV-A,Batangas,Tanauan City,1.0,2nd Class ,"",10716.0
+REGION X,Lanao del Norte,Sultan Naga Dimaporo,0.0,5th,52430.0,23099.0
+REGION VII,Bohol,Inabanga,0.0,3rd,43291.0,12563.0
+REGION VII,Cebu,Moalboal,0.0,4th,27676.0,12486.0
+REGION VIII,Samar,Catbalogan City,1.0,5th Class ,"",27422.0
+REGION XIII,Surigao del Sur,Bayabas,0.0,5th,7779.0,11784.0
+REGION XI,Davao Oriental,Lupon,0.0,1st,61723.0,88639.0
+REGION IX,Zamboanga del Sur,Margosatubig,0.0,3rd,35596.0,11169.0
+NIR,Negros Oriental,Basay,0.0,4th,24913.0,16200.0
+ARMM,Tawi-Tawi,Panglima Sugala,0.0,3rd,38704.0,41666.0
+REGION IV-B,Palawan,Culion,0.0,3rd,19543.0,49959.0
+REGION IV-A,Laguna,Lumban,0.0,3rd,29470.0,4053.0
+ARMM,Maguindanao,Datu Anggal Midtimbang,0.0,-,13339.0,8543.0
+CAR,Apayao,Conner,0.0,2nd,24811.0,69430.0
+REGION X,Bukidnon,Pangantucan,0.0,1st,48775.0,46172.0
+REGION IX,Zamboanga Sibugay,Titay,0.0,2nd,46456.0,35044.0
+REGION VIII,Biliran,Caibiran,0.0,5th,21473.0,8355.0
+REGION XII,North Cotabato,Makilala,0.0,1st,77508.0,34357.0
+REGION XIII,Surigao del Norte,Tubod,0.0,5th,12569.0,4534.0
+REGION I,Pangasinan,Tayug,0.0,3rd,40018.0,5124.0
+REGION IV-A,Quezon,San Antonio,0.0,4th,31681.0,17293.0
+REGION VI,Iloilo,Ajuy,0.0,2nd,47248.0,17557.0
+REGION V,Sorsogon,Sorsogon City,1.0,3rd Class ,"",27611.0
+REGION III,Nueva Ecija,Laur,0.0,3rd,32205.0,29588.0
+REGION II,Isabela,Cabatuan,0.0,3rd,37299.0,7200.0
+REGION VII,Bohol,Antequera,0.0,4th,14481.0,11860.0
+CAR,Benguet,Atok,0.0,4th,19242.0,21499.0
+REGION X,Lanao del Norte,Tagoloan,0.0,5th,11674.0,6970.0
+REGION I,Ilocos Norte,Adams,0.0,5th,1785.0,15931.0
+REGION I,Ilocos Norte,Badoc,0.0,3rd,30708.0,7668.0
+REGION I,La Union,Bauang,0.0,1st,70735.0,7315.0
+REGION IX,Zamboanga del Sur,Tigbao,0.0,5th,19300.0,12069.0
+REGION X,Misamis Oriental,Alubijid,0.0,4th,26648.0,8556.0
+REGION VI,Aklan,Tangalan,0.0,5th,20277.0,7459.0
+REGION IV-A,Rizal,Cardona,0.0,3rd,47414.0,2856.0
+REGION IV-A,Batangas,Alitagtag,0.0,4th,23649.0,2476.0
+REGION VI,Aklan,Altavas,0.0,4th,23919.0,10905.0
+REGION V,Albay,Rapu-Rapu,0.0,3rd,35875.0,15530.0
+REGION III,Nueva Ecija,Talugtug,0.0,4th,21291.0,9395.0
+REGION X,Misamis Oriental,Kinoguitan,0.0,5th,12761.0,4256.0
+REGION IX,Zamboanga del Sur,Lakewood,0.0,4th,19645.0,20130.0
+REGION XI,Davao del Sur,Sarangani,0.0,4th,23290.0,9772.0
+REGION IX,Zamboanga del Sur,Dumalinao,0.0,4th,30691.0,11764.0
+REGION VII,Bohol,Talibon,0.0,1st,61373.0,14046.0
+REGION IV-A,Rizal,Angono,0.0,1st,102407.0,2622.0
+ARMM,Sulu,Indanan,0.0,3rd,65858.0,17072.0
+REGION XI,Compostela Valley,Pantukan,0.0,1st,79067.0,53311.0
+REGION V,Masbate,Mobo,0.0,4th,34896.0,14347.0
+REGION VI,Iloilo,Dingle,0.0,3rd,43290.0,9837.0
+REGION VIII,Leyte,La Paz,0.0,5th,19133.0,7270.0
+REGION VIII,Samar,San Jorge,0.0,4th,16340.0,24120.0
+REGION VI,Guimaras,Jordan,0.0,3rd,34791.0,12611.0
+CAR,Kalinga,Tinglayan,0.0,4th,12557.0,28300.0
+REGION V,Masbate,Milagros,0.0,1st,52619.0,56530.0
+CAR,Ifugao,Alfonso Lista,0.0,3rd,28410.0,34746.0
+REGION IV-B,Palawan,Bataraza,0.0,1st,63644.0,72620.0
+REGION VI,Aklan,Numancia,0.0,4th,29862.0,2884.0
+ARMM,Maguindanao,Datu Abdullah Sanki,0.0,-,15062.0,15062.0
+REGION II,Nueva Vizcaya,Villaverde,0.0,5th,17720.0,8150.0
+REGION IV-A,Quezon,Sariaya,0.0,1st,138894.0,21216.0
+REGION XI,Davao del Norte,Tagum City,1.0,1st Class-Special,"",19580.0
+REGION XII,South Cotabato,General Santos City,1.0,1st Class-Special,"",49286.0
+REGION VII,Cebu,Poro,0.0,4th,23498.0,6359.0
+ARMM,Sulu,Luuk,0.0,3rd,29897.0,31304.0
+REGION I,Ilocos Sur,Lidlidda,0.0,5th,4398.0,3384.0
+REGION V,Camarines Norte,Capalonga,0.0,3rd,31299.0,29000.0
+REGION III,Aurora,Casiguran,0.0,2nd,23865.0,71543.0
+REGION XIII,Agusan del Norte,Butuan City,1.0,1st Class-Special,"",81662.0
+REGION V,Camarines Sur,San Fernando,0.0,4th,33281.0,7176.0
+REGION II,Nueva Vizcaya,Santa Fe,0.0,3rd,14427.0,39981.0
+REGION VII,Cebu,Ginatilan,0.0,5th,15327.0,7010.0
+REGION III,Tarlac,Victoria,0.0,2nd,59987.0,11151.0
+REGION III,Pampanga,Sasmuan,0.0,4th,27254.0,9180.0
+REGION I,Ilocos Norte,Pinili,0.0,3rd,16732.0,8948.0
+REGION XII,South Cotabato,Tantangan,0.0,3rd,40461.0,11310.0
+REGION XIII,Surigao del Norte,Gigaquit,0.0,4th,18784.0,13811.0
+REGION X,Bukidnon,Sumilao,0.0,4th,25668.0,19695.0
+REGION VII,Siquijor,Lazi,0.0,4th,20024.0,7064.0
+REGION IV-A,Quezon,Buenavista,0.0,4th,29053.0,16135.0
+REGION XIII,Surigao del Norte,San Isidro,0.0,5th,6973.0,4203.0
+REGION III,Bulacan,Hagonoy,0.0,1st,125689.0,10310.0
+REGION VIII,Southern Leyte,San Ricardo,0.0,5th,10078.0,4756.0
+REGION X,Misamis Oriental,Opol,0.0,2nd,52108.0,17513.0
+REGION IV-B,Romblon,Looc,0.0,4th,21841.0,13282.0
+REGION VIII,Leyte,Bato,0.0,4th,35610.0,7245.0
+REGION VI,Capiz,Dumarao,0.0,2nd,43986.0,23256.0
+REGION VIII,Northern Samar,San Antonio,0.0,5th,8877.0,2700.0
+REGION VIII,Eastern Samar,Maydolong,0.0,4th,13614.0,39963.0
+REGION IV-B,Occidental Mindoro,Looc,0.0,5th,9758.0,13230.0
+REGION VII,Bohol,Baclayon,0.0,4th,18630.0,3443.0
+REGION VI,Antique,Valderrama,0.0,4th,18442.0,27379.0
+REGION XIII,Agusan del Sur,Trento,0.0,1st,47193.0,55570.0
+REGION VIII,Southern Leyte,Malitbog,0.0,4th,22009.0,7497.0
+REGION XIII,Surigao del Sur,Barobo,0.0,3rd,43663.0,24250.0
+REGION X,Misamis Oriental,Tagoloan,0.0,1st,63850.0,11773.0
+REGION XI,Davao del Sur,Malalag,0.0,2nd,35295.0,18612.0
+REGION I,Ilocos Sur,Banayoyo,0.0,4th,7694.0,2463.0
+REGION V,Camarines Sur,Libmanan,0.0,1st,100002.0,34282.0
+REGION V,Camarines Sur,Minalabac,0.0,3rd,48162.0,12610.0
+REGION VIII,Eastern Samar,Lawaan,0.0,5th,11612.0,16256.0
+REGION VI,Iloilo,Passi City,1.0,4th Class ,"",25139.0
+CAR,Mountain Province,Barlig,0.0,5th,5838.0,22864.0
+REGION VII,Cebu,Bantayan,0.0,1st,74785.0,8168.0
+REGION IV-B,Romblon,Banton,0.0,5th,5963.0,3248.0
+REGION VIII,Leyte,Mayorga,0.0,5th,14694.0,4217.0
+REGION X,Lanao del Norte,Pantao Ragat,0.0,4th,23122.0,12430.0
+REGION VII,Cebu,Aloguinsan,0.0,4th,27650.0,6192.0
+ARMM,Lanao del Sur,Tamparan,0.0,5th,22367.0,17000.0
+REGION III,Pampanga,Minalin,0.0,4th,44001.0,4827.0
+REGION III,Tarlac,Pura,0.0,4th,22949.0,3101.0
+REGION II,Isabela,Cordon,0.0,3rd,40877.0,14400.0
+REGION III,Nueva Ecija,Llanera,0.0,4th,36200.0,11444.0
+ARMM,Maguindanao,Kabuntalan,0.0,5th,16794.0,37108.0
+ARMM,Tawi-Tawi,Sapa-Sapa,0.0,3rd,28781.0,23561.0
+REGION IX,Zamboanga Sibugay,Ipil,0.0,1st,64939.0,24160.0
+NIR,Negros Oriental,Sibulan,0.0,2nd,51519.0,16300.0
+ARMM,Sulu,Jolo,0.0,1st,118307.0,12640.0
+REGION IV-B,Romblon,San Andres,0.0,5th,15028.0,11200.0
+REGION XII,Sarangani,Maitum,0.0,2nd,41675.0,29066.0
+REGION X,Lanao del Norte,Munai,0.0,4th,27600.0,19750.0
+REGION IV-A,Laguna,Mabitac,0.0,5th,18618.0,8076.0
+REGION VI,Iloilo,San Rafael,0.0,5th,14655.0,6705.0
+REGION VII,Bohol,Dimiao,0.0,4th,15166.0,13575.0
+REGION VIII,Samar,Pinabacdao,0.0,4th,16208.0,18306.0
+REGION VI,Capiz,President Roxas,0.0,4th,28561.0,7788.0
+REGION XIII,Surigao del Sur,Bislig City,1.0,3rd Class ,"",33180.0
+REGION V,Camarines Norte,Vinzons,0.0,3rd,41915.0,14143.0
+REGION IX,Zamboanga Sibugay,Naga,0.0,3rd,37814.0,24630.0
+REGION IX,Zamboanga del Sur,Sominot,0.0,5th,16652.0,11152.0
+REGION VI,Capiz,Sapi-An,0.0,4th,24779.0,10524.0
+REGION III,Aurora,Dinalungan,0.0,4th,10988.0,31685.0
+REGION VI,Iloilo,Iloilo City,1.0,1st Class-Special,"",7834.0
+NIR,Negros Oriental,Amlan,0.0,4th,22206.0,11185.0
+ARMM,Lanao del Sur,Balabagan,0.0,4th,25139.0,23000.0
+NIR,Negros Occidental,Ilog,0.0,2nd,54423.0,28170.0
+REGION X,Misamis Oriental,Lagonglong,0.0,5th,19303.0,8378.0
+REGION X,Bukidnon,Cabanglasan,0.0,3rd,32427.0,24330.0
+REGION III,Pampanga,Guagua,0.0,1st,111199.0,4867.0
+REGION IV-A,Laguna,Rizal,0.0,5th,15518.0,2790.0
+REGION VII,Cebu,Carmen,0.0,3rd,44648.0,8478.0
+REGION X,Bukidnon,Impasug-Ong,0.0,1st,43587.0,105117.0
+REGION XIII,Surigao del Norte,Sison,0.0,5th,11377.0,5470.0
+REGION III,Bulacan,San Rafael,0.0,1st,85921.0,15243.0
+REGION V,Camarines Norte,Paracale,0.0,3rd,53243.0,19790.0
+REGION II,Cagayan,Ballesteros,0.0,4th,32215.0,12000.0
+REGION IV-A,Cavite,General Emilio Aguinaldo,0.0,5th,17507.0,940.0
+CAR,Abra,Tineg,0.0,2nd,4668.0,74480.0
+REGION X,Bukidnon,Malaybalay City,1.0,1st Class-Special,"",96919.0
+REGION VIII,Samar,Villareal,0.0,4th,26221.0,9854.0
+REGION II,Quirino,Diffun,0.0,2nd,48501.0,32010.0
+REGION I,Ilocos Norte,Dingras,0.0,2nd,37021.0,9600.0
+REGION VIII,Southern Leyte,Sogod,0.0,2nd,41411.0,19270.0
+REGION X,Misamis Oriental,Manticao,0.0,4th,26786.0,12301.0
+REGION II,Cagayan,Enrile,0.0,3rd,32553.0,18450.0
+REGION III,Bulacan,Plaridel,0.0,1st,101441.0,3244.0
+REGION VII,Bohol,Garcia Hernandez,0.0,4th,23038.0,12750.0
+REGION II,Cagayan,Santa Praxedes,0.0,5th,3646.0,10997.0
+REGION IV-A,Quezon,Atimonan,0.0,1st,61587.0,23966.0
+REGION IV-A,Laguna,Pila,0.0,3rd,46534.0,3120.0
+REGION X,Bukidnon,San Fernando,0.0,1st,50207.0,70506.0
+NIR,Negros Oriental,Dumaguete City,1.0,3rd Class ,"",3362.0
+REGION II,Cagayan,Santa Ana,0.0,2nd,30458.0,44130.0
+REGION IV-B,Oriental Mindoro,Bulalacao,0.0,3rd,33754.0,32186.0
+CAR,Abra,Bangued,0.0,1st,43936.0,10570.0
+REGION II,Nueva Vizcaya,Bambang,0.0,1st,47657.0,34500.0
+REGION II,Isabela,Santiago City,1.0,1st Class-Special,"",25550.0
+REGION V,Albay,Malinao,0.0,3rd,42770.0,10750.0
+REGION III,Aurora,Baler,0.0,3rd,36010.0,9255.0
+CAR,Ifugao,Lagawe,0.0,4th,18077.0,20891.0
+REGION IV-A,Rizal,Taytay,0.0,1st,288956.0,3880.0
+CAR,Benguet,Itogon,0.0,1st,55960.0,44973.0
+REGION VIII,Northern Samar,Mondragon,0.0,3rd,35318.0,28890.0
+REGION V,Albay,Tabaco City,1.0,4th Class ,"",11714.0
+REGION VIII,Biliran,Almeria,0.0,5th,16495.0,5746.0
+REGION III,Pampanga,Porac,0.0,1st,111441.0,31400.0
+REGION VIII,Samar,Matuguinao,0.0,5th,6746.0,17251.0
+ARMM,Sulu,Lugus,0.0,5th,19839.0,13304.0
+REGION XI,Davao Oriental,Governor Generoso,0.0,2nd,50372.0,36575.0
+REGION IX,Zamboanga del Norte,Manukan,0.0,3rd,35589.0,24635.0
+REGION VIII,Leyte,Merida,0.0,5th,27224.0,9521.0
+CAR,Apayao,Flora,0.0,3rd,16743.0,32440.0
+CAR,Abra,Tubo,0.0,4th,5719.0,40987.0
+REGION X,Misamis Occidental,Bonifacio,0.0,4th,30904.0,15502.0
+REGION XI,Davao del Norte,Asuncion,0.0,1st,55844.0,29739.0
+REGION VII,Cebu,San Francisco,0.0,3rd,47357.0,10693.0
+REGION VIII,Leyte,Tabango,0.0,4th,31932.0,9662.0
+REGION IV-A,Quezon,Unisan,0.0,4th,25186.0,12415.0
+REGION VIII,Samar,Paranas,0.0,2nd,29327.0,55612.0
+REGION VII,Bohol,Jagna,0.0,3rd,32566.0,16849.0
+REGION VI,Iloilo,Guimbal,0.0,4th,32325.0,4461.0
+REGION XI,Compostela Valley,Maragusan,0.0,1st,55503.0,39427.0
+ARMM,Sulu,Maimbung,0.0,5th,28445.0,7750.0
+REGION VII,Cebu,Badian,0.0,3rd,37699.0,11007.0
+REGION IV-A,Cavite,Cavite City,1.0,4th Class ,"",1089.0
+ARMM,Lanao del Sur,Balindong,0.0,4th,26007.0,45394.0
+NIR,Negros Occidental,Moises Padilla,0.0,3rd,39257.0,14410.0
+REGION VIII,Leyte,Matalom,0.0,3rd,31097.0,13200.0
+REGION X,Bukidnon,Dangcagan,0.0,3rd,22448.0,42269.0
+REGION VII,Cebu,Liloan,0.0,1st,100500.0,4592.0
+REGION VII,Bohol,Bien Unido,0.0,4th,25796.0,2739.0
+REGION IV-A,Cavite,Amadeo,0.0,4th,33457.0,3692.0
+REGION XIII,Agusan del Sur,Santa Josefa,0.0,3rd,25156.0,34180.0
+REGION X,Lanao del Norte,Magsaysay,0.0,5th,16442.0,15183.0
+REGION IV-A,Batangas,Malvar,0.0,2nd,45952.0,3300.0
+REGION IV-A,Cavite,Bacoor,1.0,- ,"",4617.0
+REGION VI,Iloilo,Balasan,0.0,4th,29724.0,5427.0
+REGION IV-B,Romblon,Santa Maria,0.0,5th,7683.0,3620.0
+REGION II,Nueva Vizcaya,Bayombong,0.0,1st,57416.0,13600.0
+REGION IV-B,Palawan,Agutaya,0.0,5th,11906.0,3731.0
+REGION XIII,Surigao del Norte,Claver,0.0,2nd,23702.0,32260.0
+REGION III,Zambales,Palauig,0.0,3rd,33286.0,31000.0
+REGION I,Ilocos Sur,Sugpon,0.0,5th,3820.0,5711.0
+REGION VIII,Southern Leyte,Libagon,0.0,5th,14352.0,9862.0
+REGION VIII,Northern Samar,Catubig,0.0,3rd,31723.0,21499.0
+REGION V,Albay,Oas,0.0,1st,64785.0,26361.0
